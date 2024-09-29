@@ -1,7 +1,7 @@
 # Project: Application of Course Concepts to Professional Practice
 
 ## 1. Overview
-Select a concept or method they have learned during the course and apply it to a real-world problem or scenario relevant to your current job, future career, or area of interest within water resources engineering, environmental engineering, construction management, or a related field. The project can be conducted individually or in a group of two to three students. 
+Select a concept or method that you have learned during the course and apply it to a real-world problem or scenario relevant to your current job, future career, or area of interest within water resources engineering, environmental engineering, construction management, or a related field. The project can be conducted individually or in a group of two to three students. 
 
 ## 2. Learning objectives
 1. Apply course concepts such as mathematical modeling, optimization, or statistics in a real-world context
