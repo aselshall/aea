@@ -52,6 +52,7 @@ While there is no strict limitation on project themes, your chosen topic should 
 - Check problems that we solved in this class or similar ones in your textbook
 - Consult with your instructor or supervisor, who may have suggestions that suit your interests and learning goals
 
-**3. Do In need to submit my code or Excel sheets?**
+**3. Do In need to submit my code or Excel sheets?**   
+
 Yes, codes or Excel sheets that you developed as part of your analysis should be submitted along with your report. Ensure they are clearly labeled and easy to follow for review.
 
