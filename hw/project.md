@@ -13,7 +13,7 @@ Select a concept or method they have learned during the course and apply it to a
 Choose a concept from mathematical modeling, optimization, or statistical analysis and demonstrate its application in your profession or a field you wish to pursue. Example applications include:
 - Environmental engineering: Develop a mathematical model for a bioreactor and solve it numerically or analytically
 - Water resources engineering: Use optimization methods to analyze pumping test data by fitting field data to a theoretical curve
-- Construction management: Apply sensitivity and uncertainty analysis to evaluate project costs
+- Construction management: Apply sensitivity and uncertainty analysis to conduct cost analysis
 
 ## 4. Deliverable
 Prepare a short report (3-5 pages) that includes:
