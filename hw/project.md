@@ -44,7 +44,8 @@ The project will be evaluated based on the following criteria:
 ## 8. FAQ 
 The instructor will regularly update this section throughout the project to answer common questions and clarify any uncertainties that students may have. Make sure to check this section before submitting your project deliverables.
 
-**1. Are there any project themes or topics that we are restricted to?**
+**1. Are there any project themes or topics that we are restricted to?**   
+
 While there is no strict limitation on project themes, your chosen topic should fall under the broader umbrella of advanced engineering analysis. Your project should demonstrate the application of concepts/methods covered in this course and your problem-solving skills.
 
 **2. In case I do not have a project idea, how can I find one?**
