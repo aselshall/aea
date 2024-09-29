@@ -30,7 +30,7 @@ The project will be evaluated based on the following criteria:
 
 ## 6. Rubric
 
-| **Criteria**             | **Excellent (90-100%)**                                  | **Good (75-89%)**                                    | **Fair (60-74%)**                                    | **Needs Improvement (<60%)**                     | **Points** |
+| **Criteria**             | **Excellent (90-100%)**                                  | **Good (75-89%)**                                    | **Fair (60-74%)**                                    | **Needs Improvement (<60%)**                     |
 |--------------------------|---------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|--------------------------------------------------|
 | **Relevance (30%)**       | **30-27 points** <br> Strong connection to course material, clearly applied to your field with thoughtful reflection on real-world use. | **26-23 points** <br> Clear connection to course material, with some practical relevance and reflection | **22-18 points** <br> Some connection to course, but weak relevance to the field or limited reflection | **<18 points** <br> Loosely connected to course material, with little relevance or reflection |
 | **Application (40%)**     | **40-36 points** <br> Deep understanding, thorough application with clear analysis, models, and practical insights | **35-30 points** <br> Good understanding and application, though some analysis may lack depth | **29-24 points** <br> Basic understanding with incomplete analysis or unclear application | **<24 points** <br> Limited or incorrect understanding, little analysis, and unclear application |
