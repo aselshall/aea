@@ -16,7 +16,7 @@ Choose a concept from mathematical modeling, optimization, or statistical analys
 - Construction management: Apply sensitivity and uncertainty analysis to conduct cost analysis
 
 ## 4. Deliverable
-Prepare a short report (3-5 pages) that includes:
+Prepare a short report (2-4 pages) that includes:
 - Introduction: Briefly describe the real-world problem or scenario
 - Concept explanation: Explain the course concept/method and how it relates to the problem
 - Application: Describe how the concept/method is applied to solve or address the problem
@@ -37,7 +37,8 @@ The project will be evaluated based on the following criteria:
 | **Clarity & Structure (30%)** | **30-27 points** <br> Well-organized, clear, precise explanations with proper use of technical terms. Figures/tables are well-integrated and error-free. | **26-23 points** <br> Mostly organized with minor issues. Explanations are clear but lack precision in areas. Minor errors in formatting. | **22-18 points** <br> Some disorganization and unclear explanations. Multiple errors in grammar or formatting. | **<18 points** <br> Poorly organized, unclear explanations, with multiple errors in structure or formatting. | 
 
 ## 7. Submission
-- Submit your report as PDF and supporting materials such as codes or Excel sheets on Canvas by the due date
+- Submit your report as PDF on Canvas by the due date
+- Upload your supporting materials such as codes or spread sheets on Canvas
 - Follow the late submission policy as outlined in the course syllabus
 - Contact the instructor early if you anticipate any issues with meeting the deadline
 
@@ -50,10 +51,8 @@ While there is no strict limitation on project themes, your chosen topic should 
 
 **2. In case I do not have a project idea, how can I find one?**
 - Leverage on a project that you currently doing at work, or for your graduation
-- Check problems that we solved in this class or similar ones in your textbook
+- Check problems that we solved in this course or similar ones in your textbook
 - Consult with your instructor or supervisor, who may have suggestions that suit your interests and learning goals
 
 **3. Do In need to submit my code or Excel sheets?**   
-
 Yes, codes or Excel sheets that you developed as part of your analysis should be submitted along with your report. Ensure they are clearly labeled and easy to follow for review.
-
