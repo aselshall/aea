@@ -30,7 +30,7 @@ Fundamental and derived physical quantities that are commonly used in fluid mech
 | **Ideal Gas Constant** | $R \approx 8.314 \, \text{J/mol·K}$      | Joules per mole Kelvin (J/mol·K)   | $M L^2 T^{-2} \Theta^{-1}$ | kg·m²·s⁻²·K⁻¹·mol⁻¹                  | Universal constant used in the Ideal Gas Law   |
 | **Gravitational Constant** | $g = 9.81 \, \text{m/s}^2$       | m/s²                               | $L T^{-2}$                      | m/s²                             | Acceleration due to gravity on Earth's surface |
 | **Boltzmann Constant**    | $k_B \approx 1.38 \times 10^{-23} \, \text{J/K}$ | Joules per Kelvin (J/K)           | $M L^2 T^{-2} \Theta^{-1}$      | kg·m²/s²·K⁻¹                     | Relates temperature to molecular energy        |
-| **Avogadro’s Number**  | $N_A \approx 6.022 \times 10^{23} \, \text{mol}^{-1}$  | Mole inverse (\(\text{mol}^{-1}\)) | Dimensionless | -                                         | Number of molecules or atoms in one mole of substance |
+| **Avogadro’s Number**  | $N_A \approx 6.022 \times 10^{23} \, \text{mol}^{-1}$  | Mole inverse $(\text{mol}^{-1}\)$ | Dimensionless | -                                         | Number of molecules or atoms in one mole of substance |
 
 - Fundamental Quantities: Comments clarify their importance in fluid mechanics (e.g., length, time, mass).
 - Derived Quantities: Explain how each quantity relates to fluid flow, pressure, shear, or energy conservation.
