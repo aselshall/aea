@@ -27,7 +27,6 @@ Here’s the updated table with **Density**, **Specific Weight**, and **Specific
 | **Weber Number**       | \( We = \frac{\rho v² L}{\gamma} \) | Dimensionless                      | -             | Dimensionless                               | Compares inertial forces to surface tension      |
 | **Bernoulli Equation** | \( P + \frac{1}{2} \rho v² + \rho gh = \text{constant} \) | -         | -             | N/A                                          | Describes energy conservation in fluid flow      |
 
-
 - **Fundamental Quantities**: Comments clarify their importance in fluid mechanics (e.g., length, time, mass).
 - **Derived Quantities**: Explain how each quantity relates to fluid flow, pressure, shear, or energy conservation.
 - **Dimensionless Numbers**: Provide insights into their role in classifying flow regimes (laminar, turbulent, etc.).
