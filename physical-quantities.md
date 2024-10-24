@@ -1,0 +1,33 @@
+Fundamental and derived physical quantities that are commonly used in fluid mechanics
+Here’s the updated table with **Density**, **Specific Weight**, and **Specific Gravity** added at suitable locations:
+
+| **Quantity**          | **Equation**                       | **SI Unit**                        | **Dimension** | **In terms of SI system**                   | **Comment**                                       |
+|-----------------------|------------------------------------|------------------------------------|---------------|---------------------------------------------|--------------------------------------------------|
+| **Length**            | -                                  | Meter (m)                          | L             | m                                           | -                                                |
+| **Time**              | -                                  | Second (s)                         | T             | s                                           | -                                                |
+| **Mass**              | -                                  | Kilogram (kg)                      | M             | kg                                          | -                                                |
+| **Density**           | \( \rho = \frac{m}{V} \)           | Kilogram per cubic meter (kg/m³)   | ML⁻³          | kg/m³                                       | -                                                |
+| **Specific Weight**    | \( \gamma = \rho g \)              | Newton per cubic meter (N/m³)      | ML⁻²T⁻²       | N/m³                                       | Weight per unit volume of a fluid                |
+| **Specific Gravity**   | \( SG = \frac{\rho}{\rho_{\text{ref}}} \) | Dimensionless                      | -             | Dimensionless                               | Ratio of the density of a substance to the reference density (usually water) |
+| **Velocity**          | \( v = \frac{d}{t} \)              | Meter per second (m/s)             | LT⁻¹          | m/s                                         | Describes rate of change of position              |
+| **Acceleration**      | \( a = \frac{v}{t} \)              | Meter per second squared (m/s²)    | LT⁻²          | m/s²                                        | Describes rate of change of velocity              |
+| **Force**             | \( F = ma \)                       | Newton (N)                         | MLT⁻²         | kg·m/s²                                     | -                                                |
+| **Pressure**          | \( P = \frac{F}{A} \)              | Pascal (Pa)                        | ML⁻¹T⁻²       | kg/(m·s²) = N/m²                            | -                                                |
+| **Shear Stress**      | \( \tau = \frac{F}{A} \)           | Pascal (Pa)                        | MLT⁻²         | N/m² = kg/(m·s²)                           | -                                                |
+| **Energy**            | \( E = F \cdot d \)                | Joule (J)                          | MLT⁻²         | kg·m²/s² = N·m                              | -                                                |
+| **Power**             | \( P = \frac{E}{t} \)              | Watt (W)                           | MLT⁻³         | kg·m²/s³ = J/s                              | -                                                |
+| **Viscosity (Dynamic)** | \( \mu = \frac{\tau}{\frac{du}{dy}} \) | Pascal-second (Pa·s)               | ML⁻¹T⁻¹       | kg/(m·s) = N·s/m²                           | -                                                |
+| **Kinematic Viscosity** | \( \nu = \frac{\mu}{\rho} \)      | Square meter per second (m²/s)     | L²T⁻¹         | m²/s                                        | -                                                |
+| **Surface Tension**    | \( \gamma = \frac{F}{l} \)        | Newton per meter (N/m)             | MT⁻²          | kg/s²                                      | Affects fluid interfaces and bubbles             |
+| **Flow Rate (Volumetric)** | \( Q = A \cdot v \)            | Cubic meter per second (m³/s)      | L³T⁻¹         | m³/s                                       | -                                                |
+| **Flow Rate (Mass)**     | \( \dot{m} = \rho Q \)           | Kilogram per second (kg/s)         | MT⁻¹          | kg/s                                       | Important for mass balance in fluids             |
+| **Reynolds Number**    | \( Re = \frac{\rho v L}{\mu} \)   | Dimensionless                      | -             | Dimensionless                               | Compares inertial forces to viscous forces       |
+| **Froude Number**      | \( Fr = \frac{v}{\sqrt{gL}} \)    | Dimensionless                      | -             | Dimensionless                               | Used in open channel flow to compare inertial to gravitational forces |
+| **Mach Number**        | \( M = \frac{v}{c} \)             | Dimensionless                      | -             | Dimensionless                               | Compares flow velocity to the speed of sound     |
+| **Weber Number**       | \( We = \frac{\rho v² L}{\gamma} \) | Dimensionless                      | -             | Dimensionless                               | Compares inertial forces to surface tension      |
+| **Bernoulli Equation** | \( P + \frac{1}{2} \rho v² + \rho gh = \text{constant} \) | -         | -             | N/A                                          | Describes energy conservation in fluid flow      |
+
+
+- **Fundamental Quantities**: Comments clarify their importance in fluid mechanics (e.g., length, time, mass).
+- **Derived Quantities**: Explain how each quantity relates to fluid flow, pressure, shear, or energy conservation.
+- **Dimensionless Numbers**: Provide insights into their role in classifying flow regimes (laminar, turbulent, etc.).
