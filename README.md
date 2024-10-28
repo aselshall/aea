@@ -1,7 +1,12 @@
 # [EGN 6430 Advanced Engineering Analysis](https://aselshall.github.io/aea)
 
+## Official course descriptions according to FGCU Course Catalog 
+EGN 6430	Advanced Engineering Analysis - 3 credits(s)   
+ 	Methods of analysis applied to engineering problems. Topics include a review of vector calculus, linear algebra, analytical solutions and numerical integration of differential equations, finite integrals, and computer simulation and modeling.
+
 ## General 
-This course is designed for students in water resources engineering, environmental engineering, and construction management.
+This course is designed for students in construction management,  environmental engineering, and water resources engineering. 
+
 - Participation (15%)
 - Quizzes – 20 quizzes (20%)
 - Homework – 5 homework sets (25%)
