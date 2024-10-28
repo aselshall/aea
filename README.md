@@ -49,7 +49,7 @@ For each module you need to submit participation activities, quizzes, homework, 
 - Lesson 1: Introduction to Partial Differential Equations (PDEs)
 - Lesson 2: Numerical Methods for Solving PDEs
   - Finite different methods for PDEs
-- Lesson 3: Applications of PDEs in Engineering
+- Lesson 3: Application of PDEs in groundwater modeling
 - Solving real-world problems using numerical methods
 
 ### 4)	Linear algebra (elective module)
