@@ -36,16 +36,16 @@ Each module will contain:
 For each module you need to submit participation activities, quizzes, homework, and survey. 
 
 ## Course modules 
-### 1)	Review of general concepts (required module)
+### 1)	Review of basic concepts (required module)
 - Dimensional analysis
 - Conservation laws
 
-### 2)	Mathematical modeling 1: Introduction (required module)
+### 2)	Computer simulation and modeling (required module)
 - Mathematical modeling and engineering problem solving
-- Analytical solutions
-- Numerical solutions
+- Analytical solutions of differential equations
+- Numerical solutions of differential equations
 
-### 3)	Mathematical modeling 2: Numerical solutions for partial differentiation equations (elective module) 
+### 3)	Partial differentiation equations (elective module) 
 - Lesson 1: Introduction to Partial Differential Equations (PDEs)
   - Types of PDEs (elliptic, parabolic, hyperbolic)
   - Basic theory and classifications
@@ -68,7 +68,7 @@ For each module you need to submit participation activities, quizzes, homework, 
 
 ### 5)	Optimization (elective module)
 
-### 6)	Probability and statistics 1: Probability and descriptive statistics (elective module)
+### 6)	Probability and descriptive statistics (elective module)
 - Lesson 1: Probability Fundamentals
   - Probability rules, conditional probability, and independence
   - Applications for risk analysis
@@ -79,7 +79,7 @@ For each module you need to submit participation activities, quizzes, homework, 
   - Binomial, normal, and Poisson distributions
 - Real-world applications in water resources and environmental engineering
 
-### 7)	Probability and statistics 2: Sensitivity and uncertainty analysis (elective module) 
+### 7)	Sensitivity and uncertainty analysis (elective module) 
 - Lesson 1: Sensitivity Analysis Techniques
   - Methods for determining the impact of input variations on outputs
   - Applications in engineering decision-making
@@ -90,7 +90,7 @@ For each module you need to submit participation activities, quizzes, homework, 
   - Risk assessment and management in engineering projects
   - Case studies in flood risk and construction project uncertainty
 
-### 8)	Probability and statistics 3: Statistical Modeling and Inference (elective module)
+### 8)	Statistical modeling and inference (elective module)
 - Lesson 1: Introduction to Statistical Inference
   - Hypothesis testing and confidence intervals
   - Applications in environmental data analysis
