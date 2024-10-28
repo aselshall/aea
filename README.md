@@ -58,7 +58,7 @@ For each module you need to submit participation activities, quizzes, homework, 
   - Applications in solving systems of linear equations
 - Lesson 2: Solving Linear Systems
   - Gauss elimination, LU decomposition
- - Lesson 3: Eigenvalues and Eigenvectors
+- Lesson 3: Eigenvalues and Eigenvectors
   - Definitions and properties
   - Applications in water quality modeling in lakes and reservoirs
 - Practical applications in engineering systems
