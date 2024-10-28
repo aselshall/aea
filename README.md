@@ -46,7 +46,7 @@ For each module you need to submit participation activities, quizzes, homework, 
 - Analytical solutions
 - Numerical solutions
 
-### 3)	Mathematical modeling 2: Numerical solutions for partial differentiation equations
+### 3)	Mathematical modeling 2: Numerical solutions for partial differentiation equations (required module) 
 - Lesson 1: Introduction to Partial Differential Equations (PDEs)
   - Types of PDEs (elliptic, parabolic, hyperbolic)
   - Basic theory and classifications
