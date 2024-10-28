@@ -5,7 +5,19 @@ By the end of this lesson, students should be able to:
 3. Understand the steps involved in developing a mathematical model.
 4. Apply mathematical modeling to solve real-world engineering problems.
 
+---
 
+### Introduction to Mathematical Modeling
+
+**Definition:**  
+Mathematical modeling involves representing real-world systems with mathematical expressions, allowing engineers to predict and analyze system behavior under various conditions. Models simplify complex phenomena and help solve practical problems in fields like fluid mechanics, environmental engineering, and materials science.
+
+**Purpose in Engineering:**
+- Provides a structured way to understand, predict, and optimize real-world systems.
+- Allows for experimentation in a controlled, cost-effective way.
+- Facilitates decision-making by assessing different scenarios and predicting system responses.
+
+--- 
 ### Introducing the Concept of a Mathematical Model
 
 A **mathematical model** is a representation of a real-world system or problem using mathematical language. In a model, we relate a **dependent variable** (the quantity we want to predict or understand) to **independent variables**, **parameters**, and **forcing functions** that describe the system’s behavior.
@@ -79,23 +91,6 @@ Think about the following:
 - **Which approach would be more efficient or feasible in a real engineering context?**
 
 Thus, mathematical models allow engineers to predict and analyze systems without repeated need for physical testing.
-
-
---- 
-### Lesson: Mathematical Modeling and Engineering Problem Solving
-
-
----
-
-### **1. Introduction to Mathematical Modeling**
-
-**Definition:**  
-Mathematical modeling involves representing real-world systems with mathematical expressions, allowing engineers to predict and analyze system behavior under various conditions. Models simplify complex phenomena and help solve practical problems in fields like fluid mechanics, environmental engineering, and materials science.
-
-**Purpose in Engineering:**
-- Provides a structured way to understand, predict, and optimize real-world systems.
-- Allows for experimentation in a controlled, cost-effective way.
-- Facilitates decision-making by assessing different scenarios and predicting system responses.
 
 ---
 ### Steps in Mathematical Modeling
