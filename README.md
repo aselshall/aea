@@ -35,7 +35,7 @@ Each module will contain:
 8.	<span style="color:red">Survey</span> (one for each module)
 For each module you need to submit participation activities, quizzes, homework, and survey. 
 
-## Course modules 
+## Course modules  (draft)
 ### 1)	Review of basic concepts (required module)
 - Dimensional analysis
 - Conservation laws
@@ -47,30 +47,27 @@ For each module you need to submit participation activities, quizzes, homework, 
 
 ### 3)	Partial differentiation equations (elective module) 
 - Lesson 1: Introduction to Partial Differential Equations (PDEs)
-  - Types of PDEs (elliptic, parabolic, hyperbolic)
-  - Basic theory and classifications
 - Lesson 2: Numerical Methods for Solving PDEs
   - Finite different methods for PDEs
-  - Discretization techniques
 - Lesson 3: Applications of PDEs in Engineering
-- Solving real-world problems (e.g., heat conduction, fluid dynamics) using numerical methods
+- Solving real-world problems using numerical methods
 
 ### 4)	Linear algebra (elective module)
 - Lesson 1: Matrix Algebra and Operations
   - Matrix multiplication, inversion, and properties
   - Applications in solving systems of linear equations
-- Lesson 2: Eigenvalues and Eigenvectors
-  - Definitions and properties
-  - Applications in structural analysis and mechanical systems
-- Lesson 3: Solving Linear Systems
+- Lesson 2: Solving Linear Systems
   - Gauss elimination, LU decomposition
+ - Lesson 3: Eigenvalues and Eigenvectors
+  - Definitions and properties
+  - Applications in water quality modeling in lakes and reservoirs
 - Practical applications in engineering systems
 
 ### 5)	Optimization (elective module)
 
 ### 6)	Probability and descriptive statistics (elective module)
 - Lesson 1: Probability Fundamentals
-  - Probability rules, conditional probability, and independence
+  - Probability rules
   - Applications for risk analysis
 - Lesson 2: Descriptive Statistics
   - Measures of central tendency and variability (mean, median, variance)
@@ -99,8 +96,8 @@ For each module you need to submit participation activities, quizzes, homework, 
   - Real-world applications in environmental and water resource management
 - Lesson 3: Time Series Analysis
   - Autoregressive models and forecasting
-  - Case studies in hydrology and climate data analysis
-
+  - Case studies in red tides in Florida 
+  
 ### 9)	Project (required)
 [https://aselshall.github.io/aea/hw/project](https://aselshall.github.io/aea/hw/project)
 
