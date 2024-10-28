@@ -37,7 +37,6 @@ For each module you need to submit participation activities, quizzes, homework, 
 
 ## Course modules 
 ### 1)	Review of general concepts (required module)
-- Significant figures
 - Dimensional analysis
 - Conservation laws
 
