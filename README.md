@@ -9,9 +9,9 @@ This course is designed for students in construction management,  environmental 
 
 - Participation (15%)
 - Quizzes – 20 quizzes (20%)
-- Homework – 5 homework sets (25%)
+- Homework – 4 homework sets (20%)
 - Project – 1 final project (20%)
-- Exam – 1 final exam (20%)
+- Exam – 1 final exam (25%)
 
 ## Required and elective course modules
 15 weeks + 1 week spring break 
