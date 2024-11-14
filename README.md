@@ -74,7 +74,7 @@ This course is designed for students in construction management, environmental e
 - **Critical-thinking exercise**: Formulating mathmatical model for groundwater flow
 - **Practical applications of mathematical modeling**: PFAS contaminant transport modeling
 
-### 4) Linear Algebra (Elective Module) – 2 Weeks
+### 4) Linear algebra (Elective Module) – 2 Weeks
 **Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis 
 - **Matrix Algebra and Operations**: Introduction to matrices, determinants, and operations
 - **Solving Systems of Linear Equations**: Techniques for finding solutions to linear systems
