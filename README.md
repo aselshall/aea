@@ -64,27 +64,29 @@ This course is designed for students in construction management, environmental e
   - analytical solutions using an integrating factor,
   - groundwater example of an analytical solution of a non-homogenous and non-linear second order ordinary differential equation,
   - converting total derivative to partial derivatives
-- **Critical-thinking exercise**: Predator prey model in engineering applications
-- **Practical applications of calculus**: Addressing conceptual model uncertainty using Bayesian analysis  
+- **Critical-thinking exercise**: Predator-prey model in engineering applications
+- **Practical applications of integral calculus**: Addressing conceptual model uncertainty using Bayesian analysis  
 
 ### 3) Computer simulation and modeling (required module) – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations
 - **Mathematical modeling for egineering**: Basics of formulating mathematical models from physical phenomena
 - **Numerical solutions of differential equations**: Techniques for solving ordinary and partial differential equations numerically
-- **Critical-thinking exercise**: Formulating mathmatical model for groundwater flow
-- **Practical applications of mathematical modeling**: PFAS contaminant transport modeling
+- **Critical-thinking exercise**: Formulating and solving the mathematical model for contaminant transport 
+- **Practical applications of mathematical modeling**: Transport modeling of PFAS emerging contaminants
 
 ### 4) Linear algebra (elective module) – 2 Weeks
 **Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis 
 - **Matrix algebra and operations**: Introduction to matrices, determinants, and operations
 - **Solving systems of linear equations**: Techniques for finding solutions to linear systems
-- **Practical applications of linear algebra**: Applications in environmental engineering
-
+- **Critical-thinking exercise**: Mass balance of a system of reactors
+- **Practical applications of linear algebra**:  Geostatistics for reconstructing hydrostratigraphy
+  
 ### 5) Optimization (elective module) – 2 Weeks
 **Learning objectives**: Equip students with optimization techniques relevant to engineering problem solving
 - **Optimization fundamentals**: Introduction to optimization problems in engineering
-- **Computational optimization techniques**: Numerical methods for optimization, including linear and nonlinear approaches
-- **Practical applications of optimization**: Example problems in groundwater remediation and groundwater sustainability evaluation
+- **Computational optimization techniques**: Numerical methods for optimization
+- **Critical-thinking exercise**: Least-cost treatment of wastewater
+- **Practical applications of optimization**: Using simulation optimization in groundwater remediation and groundwater sustainability evaluation
 
 ## Course Materials
 Slides and videos will be available on Canvas. Key references used in preparing course materials include:
