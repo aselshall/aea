@@ -74,16 +74,16 @@ This course is designed for students in construction management, environmental e
 - **Critical-thinking exercise**: Formulating mathmatical model for groundwater flow
 - **Practical applications of mathematical modeling**: PFAS contaminant transport modeling
 
-### 4) Linear algebra (Elective module) – 2 Weeks
+### 4) Linear algebra (elective module) – 2 Weeks
 **Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis 
-- **Matrix Algebra and Operations**: Introduction to matrices, determinants, and operations
-- **Solving Systems of Linear Equations**: Techniques for finding solutions to linear systems
+- **Matrix algebra and operations**: Introduction to matrices, determinants, and operations
+- **Solving systems of linear equations**: Techniques for finding solutions to linear systems
 - **Practical applications of linear algebra**: Applications in environmental engineering
 
-### 5) Optimization (Elective module) – 2 Weeks
-**Learning Objectives**: Equip students with optimization techniques relevant to engineering problem solving
-- **Optimization Fundamentals**: Introduction to optimization problems in engineering
-- **Computational Optimization Techniques**: Numerical methods for optimization, including linear and nonlinear approaches
+### 5) Optimization (elective module) – 2 Weeks
+**Learning objectives**: Equip students with optimization techniques relevant to engineering problem solving
+- **Optimization fundamentals**: Introduction to optimization problems in engineering
+- **Computational optimization techniques**: Numerical methods for optimization, including linear and nonlinear approaches
 - **Practical applications of optimization**: Example problems in groundwater remediation and groundwater sustainability evaluation
 
 ## Course Materials
