@@ -28,7 +28,7 @@ At the completion of the course, students will be able to:
 1. Perform differentiation and integration using analytical and numeric methods
 2. Apply ordinary differential equations and partial differentiation in engineering problem solving 
 3. Use linear algebra and operations involving matrices to solve simultaneous equations
-4. Apply numerical optimization and statistical techniques in engineering problem solving 
+4. Apply numerical optimization techniques in engineering problem solving 
 
 ## Course Schedule 
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Each student must complete the required modules and choose at least one elective module based on their interest.
