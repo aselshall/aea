@@ -135,8 +135,9 @@ A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 
 ## Exam
 - The final exam will be in-person and conducted with pencil and paper in an FE exam style.
 - It will be comprehensive, covering required modules only (elective modules are not included).
+- If you can solve the homework questions, you will be able to solve the exam questions.
 - The exam is open-book but not open internet.
-- The date and location will be announced
+- The date and location will be announced.
 - A makeup exam may be provided for students with an [execused absence](#Execused-Absence-Policy)
 
 ## Execused Absence Policy
