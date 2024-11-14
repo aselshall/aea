@@ -80,6 +80,12 @@ This course is designed for students in construction management, environmental e
 - **Solving Systems of Linear Equations**: Techniques for finding solutions to linear systems
 - **Practical applications of linear algebra**: Applications in environmental engineering
 
+### 5) Optimization (Elective module) – 2 Weeks
+**Learning Objectives**: Equip students with optimization techniques relevant to engineering problem solving
+- **Optimization Fundamentals**: Introduction to optimization problems in engineering
+- **Computational Optimization Techniques**: Numerical methods for optimization, including linear and nonlinear approaches
+- **Practical applications of optimization**: Example problems in groundwater remediation and groundwater sustainability evaluation
+
 ## Course Materials
 Slides and videos will be available on Canvas. Key references used in preparing course materials include:
 
