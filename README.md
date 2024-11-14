@@ -80,18 +80,6 @@ This course is designed for students in construction management, environmental e
 - **Solving Systems of Linear Equations**: Techniques for finding solutions to linear systems
 - **Practical applications of linear algebra**: Applications in environmental engineering
 
-### 5) Optimization (Elective module) – 2 Weeks
-**Learning Objectives**: Equip students with optimization techniques relevant to engineering problem solving
-- **Optimization Fundamentals**: Introduction to optimization problems in engineering
-- **Computational Optimization Techniques**: Numerical methods for optimization, including linear and nonlinear approaches
-- **Practical applications of optimization**: Example problems in groundwater remediation and groundwater sustainability evaluation
-
-### 6) Data-driven analysis (Elective module) – 2 Weeks
-**Learning Objectives**: Equip students with skills in regression analysis and data interpretation
-- **Introduction to regression analysis**: Overview of regression concepts, including linear and multiple regression and their role in engineering analysis, use a climate change example to illustrate the difference between physics-based model and data-driven model
-- **Model fitting and interpretation**: Techniques for fitting regression models to data, assessing model accuracy, model projection
-- **Practical applications of regression in engineering**: Case study in environmental engineering
-
 ## Course Materials
 Slides and videos will be available on Canvas. Key references used in preparing course materials include:
 
