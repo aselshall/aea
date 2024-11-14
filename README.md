@@ -101,15 +101,15 @@ The instructor may elect to employ a curve that favors the students.
 
 | Grade | Range | Grade| Range | Grade | Range |
 | --- | --- | --- | --- | --- | --- |
-| A | 90% or above | B- | 76% to 79.99% | D+ | 63% to 65.99% |
-| A- | 86% to 89.99% | C+ | 73% to 75.99% | D | 60% to 62.99% |
-| B+ | 83% to 85.99% | C | 70% to 72.99% | F | Below 60% |
-| B | 80% to 82.99% | C- | 66% to 69.99% |
+| A | 94% or above | B- | 80% to 82.99% | D+ | 67% to 69.99% |
+| A- | 90% to 93.99% | C+ | 77% to 79.99% | D | 60% to 66.99% |
+| B+ | 87% to 89.99% | C | 73% to 76.99% | F | Below 60% |
+| B | 83% to 86.99% | C- | 70% to 72.99% |
 
 ### Assessment plan (100%)
 - Participation 10%
 - Homework 60%
-- Fina Exam 30%
+- Final Exam 30%
 
 General notes
 - Grades Due from Faculty by Tuesday, 06 May 2024
