@@ -31,7 +31,7 @@ At the completion of the course, students will be able to:
 4. Apply numerical optimization techniques to engineering-related problems
 
 ## Course Schedule 
-This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Each student must complete the required modules and choose at least one elective module based on their focus area.
+This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Each student must complete the required modules and choose at least one elective module based on their interest.
 
 ### 1) Basic concepts (required module) – 3 Weeks
 **Learning objectives**: Introduce foundational principles and engineering problem-solving approaches
