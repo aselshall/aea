@@ -28,7 +28,7 @@ At the completion of the course, students will be able to:
 1. Perform differentiation and integration using analytical and numeric methods
 2. Apply ordinary differential equations and partial differentiation in engineering problem solving 
 3. Use linear algebra and operations involving matrices to solve simultaneous equations
-4. Apply numerical optimization techniques in engineering problem solving 
+4. Apply numerical optimization and statistical techniques in engineering problem solving 
 
 ## Course Schedule 
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Each student must complete the required modules and choose at least one elective module based on their interest.
@@ -85,6 +85,12 @@ This course is designed for students in construction management, environmental e
 - **Optimization Fundamentals**: Introduction to optimization problems in engineering
 - **Computational Optimization Techniques**: Numerical methods for optimization, including linear and nonlinear approaches
 - **Practical applications of optimization**: Example problems in groundwater remediation and groundwater sustainability evaluation
+
+### 6) Data-driven analysis (Elective Module) – 2 Weeks
+**Learning Objectives**: Equip students with skills in regression analysis and data interpretation
+- **Introduction to regression analysis**: Overview of regression concepts, including linear and multiple regression, and their role in engineering analysis.
+- **Model fitting and interpretation**: Techniques for fitting regression models to data, assessing model accuracy, residual analysis, model projection
+- **Practical applications of regression in engineering**: Case study in environmental engineering
 
 ## Course Materials
 Slides and videos will be available on Canvas. Key references used in preparing course materials include:
