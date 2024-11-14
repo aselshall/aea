@@ -88,8 +88,8 @@ This course is designed for students in construction management, environmental e
 
 ### 6) Data-driven analysis (Elective Module) – 2 Weeks
 **Learning Objectives**: Equip students with skills in regression analysis and data interpretation
-- **Introduction to regression analysis**: Overview of regression concepts, including linear and multiple regression, and their role in engineering analysis
-- **Model fitting and interpretation**: Techniques for fitting regression models to data, assessing model accuracy, residual analysis, model projection
+- **Introduction to regression analysis**: Overview of regression concepts, including linear and multiple regression and their role in engineering analysis, use a climate change example to illustrate the difference between physics-based model and data-driven model
+- **Model fitting and interpretation**: Techniques for fitting regression models to data, assessing model accuracy, model projection
 - **Practical applications of regression in engineering**: Case study in environmental engineering
 
 ## Course Materials
