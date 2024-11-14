@@ -5,11 +5,11 @@ Spring 2025
 Last updated: Nov 13, 2024  
 
 ## Course Information
-EGN 6430 Advanced Engineering Analysis 
-CRN: [15845](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202501&crn=15845)
+EGN 6430 Advanced Engineering Analysis    
+CRN: [15845](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202501&crn=15845)  
 Credit hours: 3  
-Class: Online - Asynchronous
-Exam: Tuesday Apr 29 - In-Person -- Exam date and location will be announced
+Class: Online - Asynchronous   
+Exam: Tuesday Apr 29 - In-Person (Exam date and location will be announced)
 
 ## Instructor 
 Ahmed S. Elshall, PhD  
@@ -26,65 +26,65 @@ Methods of analysis applied to engineering problems. Topics include a review of 
 ## Course Learning Objectives
 At the completion of the course, students will be able to:
 1. Perform differentiation and integration using analytical and numeric methods
-2. Apply first and second order differential equations and partial differentiation to engineering-related problems
+2. Apply ordinary differential equations and partial differentiation to engineering-related problems
 3. Use linear algebra and operations involving matrices to solve simultaneous equations
-4. Apply statistical and numerical optimization techniques to engineering-related problems
+4. Apply numerical optimization techniques to engineering-related problems
 
 ## Course Schedule 
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Each student must complete the required modules and choose at least one elective module based on their focus area.
 
-### 1) Basic Concepts (Required Module) – 3 Weeks
-**Learning Objectives**: Introduce foundational principles and engineering problem-solving approaches
-- **Introduction to Advanced Engineering Analysis**: Overview of course structure and goals, emphasizing real-world applications
-- **Dimensional Analysis**: Importance of units, conversion, and dimensional consistency in engineering
-- **Conservation Laws**: Overview of mass, momentum, and energy conservation principles
-- **Critical Thinking Exercise**: Water budget of lake Mono and California water wars
+### 1) Basic concepts (required module) – 3 Weeks
+**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches
+- **Introduction to advanced engineering analysis**: Overview of course structure and goals, emphasizing real-world applications
+- **Dimensional analysis**: Importance of units, conversion, and dimensional consistency in engineering
+- **Conservation laws**: Overview of mass, momentum, and energy conservation principles
+- **Critical-thinking exercise**: Water budget of lake Mono and California water wars
  
-### 2) Calculus (Required Module) – 6 Weeks
-**Learning Objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge
-- **Fundamental Theorem of Calculus**: Basic principles connecting differentiation and integration 
-- **Differential Calculus**:
+### 2) Calculus (required module) – 6 Weeks
+**Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge
+- **Fundamental theorem of calculus**: Basic principles connecting differentiation and integration 
+- **Differential calculus**:
   - Derivatives,
   - differentiation techniques,
   - singular and critical points,
   - parametric equations,
   - partial derivatives,
   - implicit differentiation,  
-- **Vector Calculus**: Introduction to vector fields, gradients, divergence, and curl.
-- **Taylor Series and Expansions**: Series expansion for function approximation, and Maclaurin series
-- **Integral Calculus**:
+- **Vector calculus**: Introduction to vector fields, gradients, divergence, and curl.
+- **Taylor series and expansions**: Series expansion for function approximation, and Maclaurin series
+- **Integral calculus**:
   - Definite and indefinite integrals,
   - integration techniques,
   - double and higher order integration,
   - moments of a function,
   - infinite series  
-- **Differential Equations**:
+- **Differential equations**:
   - Basics of ordinary and partial differential equations,
   - analytical solution with separation of variables,
   - analytical solution using an integrating factor,
   - groundwater example of an analytical solution of non-homogenous and non-linear second order ordinary differential equations,
   - converting total derivative  to partial derivatives
-- **Critical Thinking Exercise**: Predator prey model in engineering applications
-- **Practical Applications**: Addressing conceptual model uncertainty using Bayesian analysis  
+- **Critical-thinking exercise**: Predator prey model in engineering applications
+- **Practical applications of calculus**: Addressing conceptual model uncertainty using Bayesian analysis  
 
-### 3) Computer Simulation and Modeling (Required Module) – 3 Weeks
-**Learning Objectives**: Introduce computational modeling for engineering problem-solving and simulations
-- **Mathematical Modeling for Engineering**: Basics of formulating mathematical models from physical phenomena
-- **Numerical Solutions of Differential Equations**: Techniques for solving ordinary and partial differential equations numerically
-- **Critical Thinking Exercise**: Formulating mathmatical model for groundwater flow
-- **Practical Applications in Modeling**: PFAS contaminant transport modeling
+### 3) Computer simulation and modeling (required module) – 3 Weeks
+**Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations
+- **Mathematical modeling for egineering**: Basics of formulating mathematical models from physical phenomena
+- **Numerical solutions of differential equations**: Techniques for solving ordinary and partial differential equations numerically
+- **Critical-thinking exercise**: Formulating mathmatical model for groundwater flow
+- **Practical applications of mathematical modeling**: PFAS contaminant transport modeling
 
 ### 4) Linear Algebra (Elective Module) – 2 Weeks
 **Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis 
 - **Matrix Algebra and Operations**: Introduction to matrices, determinants, and operations
 - **Solving Systems of Linear Equations**: Techniques for finding solutions to linear systems
-- **Practical Applications in Engineering Systems**: Applications in environmental engineering
+- **Practical applications of linear algebra**: Applications in environmental engineering
 
 ### 5) Optimization (Elective Module) – 2 Weeks
 **Learning Objectives**: Equip students with optimization techniques relevant to engineering problem solving
 - **Optimization Fundamentals**: Introduction to optimization problems in engineering
 - **Computational Optimization Techniques**: Numerical methods for optimization, including linear and nonlinear approaches
-- **Practical Applications**: Example problems in resource allocation, cost minimization, and process optimization in environmental engineering
+- **Practical applications of optimization**: Example problems in resource allocation, cost minimization, and process optimization in environmental engineering
 
 ## Course Materials
 Slides and videos will be available on Canvas. Key references used in preparing course materials include:
