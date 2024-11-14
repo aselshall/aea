@@ -84,7 +84,7 @@ This course is designed for students in construction management, environmental e
 **Learning Objectives**: Equip students with optimization techniques relevant to engineering problem solving
 - **Optimization Fundamentals**: Introduction to optimization problems in engineering
 - **Computational Optimization Techniques**: Numerical methods for optimization, including linear and nonlinear approaches
-- **Practical applications of optimization**: Example problems in resource allocation, cost minimization, and process optimization in environmental engineering
+- **Practical applications of optimization**: Example problems in groundwater remediation and groundwater sustainability evaluation
 
 ## Course Materials
 Slides and videos will be available on Canvas. Key references used in preparing course materials include:
