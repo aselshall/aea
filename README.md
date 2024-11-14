@@ -2,14 +2,14 @@
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
 Spring 2025  
-Last updated: Nov 13, 2024  
+Last updated: Nov 14, 2024  
 
 ## Course Information
 EGN 6430 Advanced Engineering Analysis    
 CRN: [15845](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202501&crn=15845)  
 Credit hours: 3  
 Class: Online - Asynchronous   
-Exam: Tuesday Apr 29 - In-Person (Exam date and location will be announced)
+Exam: Tuesday Apr 29 - In-Person (Exam time and location will be announced)
 
 ## Instructor 
 Ahmed S. Elshall, PhD  
@@ -31,26 +31,26 @@ At the completion of the course, students will be able to:
 4. Apply numerical optimization techniques in engineering problem solving 
 
 ## Course Schedule 
-This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Each student must complete the required modules and choose at least one elective module based on their interest.
+This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Each student must complete the required modules and choose at least one elective module based on their interest. These topics are tentative and subject to change based on class progress. 
 
-### 1) Basic concepts (required module) – 3 Weeks
+#### 1) Basic concepts (required module) – 3 Weeks
 **Learning objectives**: Introduce foundational principles and engineering problem-solving approaches
 - **Introduction to advanced engineering analysis**: Overview of course structure and goals, emphasizing real-world applications
 - **Dimensional analysis**: Importance of units, conversion, and dimensional consistency in engineering
-- **Conservation laws**: Overview of mass, momentum, and energy conservation principles
+- **Conservation laws**: Overview of mass, energy and momentum conservation laws
 - **Critical-thinking exercise**: Water budget of lake Mono and California water wars
  
 ### 2) Calculus (required module) – 6 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge
-- **Fundamental theorem of calculus**: Basic principles connecting differentiation and integration 
+- **Fundamental theorem of calculus**: Basic principles connecting differentiation and integration and laws and conservation 
 - **Differential calculus**:
   - Derivatives,
   - differentiation techniques,
   - singular and critical points,
   - parametric equations,
   - partial derivatives,
-  - implicit differentiation,  
-- **Vector calculus**: Introduction to vector fields, gradients, divergence, and curl.
+  - implicit differentiation  
+- **Vector calculus**: Introduction to vector fields, gradients, divergence, and curl
 - **Taylor series and expansions**: Series expansion for function approximation, and Maclaurin series
 - **Integral calculus**:
   - Definite and indefinite integrals,
@@ -60,10 +60,10 @@ This course is designed for students in construction management, environmental e
   - infinite series  
 - **Differential equations**:
   - Basics of ordinary and partial differential equations,
-  - analytical solution with separation of variables,
-  - analytical solution using an integrating factor,
-  - groundwater example of an analytical solution of non-homogenous and non-linear second order ordinary differential equations,
-  - converting total derivative  to partial derivatives
+  - analytical solutions with separation of variables,
+  - analytical solutions using an integrating factor,
+  - groundwater example of an analytical solution of a non-homogenous and non-linear second order ordinary differential equation,
+  - converting total derivative to partial derivatives
 - **Critical-thinking exercise**: Predator prey model in engineering applications
 - **Practical applications of calculus**: Addressing conceptual model uncertainty using Bayesian analysis  
 
