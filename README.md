@@ -1,4 +1,4 @@
-# [EGN 6430 Advanced Engineering Analysis](https://aselshall.github.io/aea)
+## [EGN 6430 Advanced Engineering Analysis](https://aselshall.github.io/aea)
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
 Spring 2025  
