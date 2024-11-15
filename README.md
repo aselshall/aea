@@ -119,11 +119,11 @@ General notes
 - Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
 
 ## Participation
-For participation assessment students are expected to:
-- Watch recorded videos and actively participate in discussions_without_ being called upon by the instructor. Questions in class and office hours are highly 
-- Fill-out exit ticket and surveys meaningfully to provide instructor with constructive feedback and suggestions
+For participation assessment, students are expected to:
+- Watch recorded videos and fill-out exit tickets
+- Complete the survey at the end of each module meaningfully to provide instructor with constructive feedback and suggestions
 
-All these will be evident by the quality of your class participation, which form the majority of your participation grade.  
+These form the majority of your participation grade.  
 
 ## Homework
 A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 11:59 pm, unless otherwise posted on CANVAS. Few assignments are designed to include self-directed learning opportunities. This is to give you the opportunity to explore and experiment with engineering problems of your interest.
