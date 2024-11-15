@@ -40,7 +40,7 @@ This course is designed for students in construction management, environmental e
 - **Conservation laws**: Overview of mass, energy and momentum conservation laws
 - **Critical-thinking exercise**: Water budget of lake Mono and California water wars
  
-### 2) Calculus (required module) – 6 Weeks
+#### 2) Calculus (required module) – 6 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge
 - **Fundamental theorem of calculus**: Basic principles connecting differentiation and integration and laws and conservation 
 - **Differential calculus**:
@@ -67,21 +67,21 @@ This course is designed for students in construction management, environmental e
 - **Critical-thinking exercise**: Predator-prey model in engineering applications
 - **Practical applications of integral calculus**: Addressing conceptual model uncertainty using Bayesian analysis  
 
-### 3) Computer simulation and modeling (required module) – 3 Weeks
+#### 3) Computer simulation and modeling (required module) – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations
 - **Mathematical modeling for egineering**: Basics of formulating mathematical models from physical phenomena
 - **Numerical solutions of differential equations**: Techniques for solving ordinary and partial differential equations numerically
 - **Critical-thinking exercise**: Formulating and solving the mathematical model for contaminant transport 
 - **Practical applications of mathematical modeling**: Transport modeling of PFAS emerging contaminants
 
-### 4) Linear algebra (elective module) – 2 Weeks
+#### 4) Linear algebra (elective module) – 2 Weeks
 **Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis 
 - **Matrix algebra and operations**: Introduction to matrices, determinants, and operations
 - **Solving systems of linear equations**: Techniques for finding solutions to linear systems
 - **Critical-thinking exercise**: Mass balance of a system of reactors
 - **Practical applications of linear algebra**:  Geostatistics for reconstructing hydrostratigraphy
   
-### 5) Optimization (elective module) – 2 Weeks
+#### 5) Optimization (elective module) – 2 Weeks
 **Learning objectives**: Equip students with optimization techniques relevant to engineering problem solving
 - **Optimization fundamentals**: Introduction to optimization problems in engineering
 - **Computational optimization techniques**: Numerical methods for optimization
@@ -195,8 +195,3 @@ HiPerGator AI: Access the fastest artificial intelligence supercomputer in highe
 ## Syllabus Change Policy 
 
 Except for changes that substantially affect implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice.
-
-
-
-
-
