@@ -1,4 +1,4 @@
-## [physical quantities](https://aselshall.github.io/physical-quantities)
+## [physical quantities](https://aselshall.github.io/aea/physical-quantities)
 
 Fundamental and derived physical quantities that are commonly used in fluid mechanics
 
