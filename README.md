@@ -39,7 +39,7 @@ This course is designed for students in construction management, environmental e
   - Overview of course structure and goals, emphasizing real-world applications
 - **Dimensional analysis**:
   - Units, dimensions, and dimensional homogeneity
-  - Physical models, concept of similarity, and Buckingham's Pi theorem
+  - Physical models, dynamic similarity, and Buckingham's Pi theorem
 - **Conservation laws**: Mass, energy and momentum conservation laws
 - **Critical-thinking exercise**: Water budget of lake Mono and California water wars
  
