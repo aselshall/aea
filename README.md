@@ -38,9 +38,10 @@ This course is designed for students in construction management, environmental e
 - **Introduction to advanced engineering analysis**:
   - Overview of course structure and goals, emphasizing real-world applications
 - **Dimensional analysis**:
-  - Units, dimensions, and dimensional homogeneity
-  - Physical models, dynamic similarity, and Buckingham's Pi theorem
-- **Conservation laws**: Mass, energy and momentum conservation laws
+  - Dimensions, units, and dimensional homogeneity
+  - Physical models, similarity, Buckingham's Pi theorem, and scaling laws 
+- **Conservation laws**:
+  - Conservation of mass, energy and momentum
 - **Critical-thinking exercise**: Water budget of lake Mono and California water wars
  
 #### 2) Calculus (required module) – 6 Weeks
