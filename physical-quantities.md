@@ -40,4 +40,20 @@ Fundamental and derived physical quantities that are commonly used in fluid mech
 - Important Constants: Universal values in fluid mechanics, thermodynamics, and related fields
 
 
+**Mathematical Representation**:  
+\[
+\pi_1 = f(\pi_2, \pi_3, \dots, \pi_n)
+\]
+For similarity:
+\[
+\pi_{i,m} = \pi_{i,p} \quad \forall i \in \{2, 3, \dots, n\}
+\]
+Then:
+\[
+\pi_{1,m} = \pi_{1,p}
+\]
 
+Where:
+- \(\pi_{i,m}\): Dimensionless \(\pi\)-term of the model.
+- \(\pi_{i,p}\): Corresponding \(\pi\)-term of the prototype.
+- \(f(\cdot)\): Functional relationship among \(\pi\)-terms.  
