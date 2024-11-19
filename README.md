@@ -34,10 +34,13 @@ At the completion of the course, students will be able to:
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Each student must complete the required modules and choose at least one elective module based on their interest. These topics are tentative and subject to change based on class progress. 
 
 #### 1) Basic concepts (required module) – 3 Weeks
-**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches
-- **Introduction to advanced engineering analysis**: Overview of course structure and goals, emphasizing real-world applications
-- **Dimensional analysis**: Importance of units, conversion, and dimensional consistency in engineering
-- **Conservation laws**: Overview of mass, energy and momentum conservation laws
+**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (7.5 contact hours)
+- **Introduction to advanced engineering analysis**:
+  - Overview of course structure and goals, emphasizing real-world applications
+- **Dimensional analysis**:
+  - Units, dimensions, and dimensional homogeneity
+  - Physical models, concept of similarity, and Buckingham's Pi theorem
+- **Conservation laws**: Mass, energy and momentum conservation laws
 - **Critical-thinking exercise**: Water budget of lake Mono and California water wars
  
 #### 2) Calculus (required module) – 6 Weeks
