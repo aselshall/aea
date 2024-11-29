@@ -33,7 +33,7 @@ At the completion of the course, students will be able to:
 ## Course Schedule 
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Each student must complete the required modules and choose at least one elective module based on their interest. These topics are tentative and subject to change based on class progress. 
 
-#### 1) Basic concepts (required module) – 3 Weeks
+#### 1) Basic concepts (required module) – 4 Weeks
 **Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (7.5 contact hours)
 - **Introduction to advanced engineering analysis**:
   - Overview of course structure and goals, emphasizing real-world applications
@@ -78,14 +78,14 @@ This course is designed for students in construction management, environmental e
 - **Critical-thinking exercise**: Formulating and solving the mathematical model for contaminant transport 
 - **Practical applications of mathematical modeling**: Transport modeling of PFAS emerging contaminants
 
-#### 4) Linear algebra (elective module) – 2 Weeks
+#### 4) Linear algebra (elective module) – 1 Weeks
 **Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis 
 - **Matrix algebra and operations**: Introduction to matrices, determinants, and operations
 - **Solving systems of linear equations**: Techniques for finding solutions to linear systems
 - **Critical-thinking exercise**: Mass balance of a system of reactors
 - **Practical applications of linear algebra**:  Geostatistics for reconstructing hydrostratigraphy
   
-#### 5) Optimization (elective module) – 2 Weeks
+#### 5) Optimization (elective module) – 1 Weeks
 **Learning objectives**: Equip students with optimization techniques relevant to engineering problem solving
 - **Optimization fundamentals**: Introduction to optimization problems in engineering
 - **Computational optimization techniques**: Numerical methods for optimization
