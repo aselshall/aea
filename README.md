@@ -42,7 +42,8 @@ This course is designed for students in construction management, environmental e
   - Physical models, similarity, Buckingham's Pi theorem, and scaling laws 
 - **Conservation laws**:
   - Conservation of mass, energy and momentum
-- **Critical-thinking exercise**: Water budget of lake Mono and California water wars
+- **Critical-thinking exercise**:
+  - Water budget of lake Mono and California water wars
  
 #### 2) Calculus (required module) – 6 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (15 contact hours)
