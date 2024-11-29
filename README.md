@@ -34,7 +34,7 @@ At the completion of the course, students will be able to:
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Each student must complete the required modules and choose at least one elective module based on their interest. These topics are tentative and subject to change based on class progress. 
 
 #### 1) Basic concepts (required module) – 4 Weeks
-**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (7.5 contact hours)
+**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (10 contact hours)
 - **Introduction to advanced engineering analysis**:
   - Overview of course structure and goals, emphasizing real-world applications
 - **Dimensional analysis**:
@@ -45,7 +45,7 @@ This course is designed for students in construction management, environmental e
 - **Critical-thinking exercise**: Water budget of lake Mono and California water wars
  
 #### 2) Calculus (required module) – 6 Weeks
-**Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge
+**Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (15 contact hours)
 - **Fundamental theorem of calculus**: Basic principles connecting differentiation and integration and laws and conservation 
 - **Differential calculus**:
   - Derivatives,
