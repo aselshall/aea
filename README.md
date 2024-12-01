@@ -36,14 +36,14 @@ This course is designed for students in construction management, environmental e
 #### 1) Basic concepts (required module) – 4 Weeks
 **Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (10 contact hours)
 - **Introduction to advanced engineering analysis**:
-  - Overview of course structure and goals, emphasizing real-world applications
+  - Overview of course structure and goals, emphasizing real-world applications (Homework 1)
 - **Dimensional analysis**:
-  - Dimensions, units, and dimensional homogeneity
-  - Physical models, similarity, Buckingham's Pi theorem, and scaling laws 
+  - Dimensions, units, and dimensional homogeneity  (Homework 1)
+  - Physical models, similarity, Buckingham's Pi theorem, and scaling laws (Homework 2)
 - **Conservation laws**:
-  - Conservation of mass, energy and momentum
+  - Conservation of mass, energy and momentum (Homework 3)
 - **Critical-thinking exercise**:
-  - Practice dimensional analysis, conservation laws, and unit conversion for FE exam 
+  - Practice dimensional analysis, conservation laws, and unit conversion for FE exam (Homework 4)
  
 #### 2) Calculus (required module) – 6 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (15 contact hours)
