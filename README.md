@@ -49,14 +49,13 @@ This course is designed for students in construction management, environmental e
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (15 contact hours)
 - **Fundamental theorem of calculus**: Basic principles connecting differentiation and integration and laws and conservation 
 - **Differential calculus**:
-  - Derivatives,
-  - differentiation techniques,
-  - singular and critical points,
-  - parametric equations,
-  - partial derivatives,
-  - implicit differentiation  
-- **Vector calculus**: Introduction to vector fields, gradients, divergence, and curl
-- **Taylor series and expansions**: Series expansion for function approximation, and Maclaurin series
+  - Derivative of a function: Limit of a function and Newton’s quotient
+  - Derivative rules: Power rule, product rule, quotient rule, chain rule
+  - Derivative of special functions: Exponential, log, and trigonometric functions
+  - Derivative tests: Singular points, critical points, and optimization
+  - Derivatives of multivariable systems: Multivariable systems, parametric equations and derivatives, partial derivatives  and implicit differentiation
+  - Vector calculus: Vector fields, gradients, divergence, and curl
+  - Taylor series and expansions: Series expansion for function approximation, and Maclaurin series
 - **Integral calculus**:
   - Definite and indefinite integrals,
   - integration techniques,
