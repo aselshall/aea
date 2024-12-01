@@ -58,18 +58,20 @@ This course is designed for students in construction management, environmental e
   - Taylor series and expansions: Series expansion for function approximation, and Maclaurin series (Homework 6)
 - **Integral calculus**:
   - Definite and indefinite integrals (Homework 7)
-  - integration techniques (Homework 7)
-  - double and higher order integration (Homework 8)
-  - moments of a function (Homework 8)
-  - infinite series  (Homework 8)
-- **Differential equations**:
+  - Integration techniques (Homework 7)
+  - Double and higher order integration (Homework 8)
+  - Moments of a function (Homework 8)
+  - Infinite series  (Homework 8)
+- **Differential equations**: 
   - Basics of ordinary and partial differential equations (Homework 9)
-  - analytical solutions with separation of variables (Homework 9)
-  - analytical solutions using an integrating factor (Homework 9)
-  - groundwater example of an analytical solution of a non-homogenous and non-linear second order ordinary differential equation (Homework 10)
-  - converting total derivative to partial derivatives (Homework 10)
-- **Critical-thinking exercise**: Predator-prey model in engineering applications (Homework 10)
-- **Practical applications of integral calculus**: Addressing conceptual model uncertainty using Bayesian analysis (Homework 10)
+  - Analytical solutions with separation of variables (Homework 9)
+  - Analytical solutions using an integrating factor (optional topic)
+  - Groundwater example of an analytical solution of a non-homogenous and non-linear second order ordinary differential equation (Homework 10)
+  - Total derivative and partial derivatives (Homework 10)
+- **Critical-thinking exercise**:
+  - Predator-prey model in engineering applications (Homework 10) 
+- **Practical applications of integral calculus**:
+  - Addressing conceptual model uncertainty using Bayesian analysis (optional topic)
 
 #### 3) Computer simulation and modeling (required module) – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations
