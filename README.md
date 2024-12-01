@@ -49,48 +49,48 @@ This course is designed for students in construction management, environmental e
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (15 contact hours)
 - **Fundamental theorem of calculus**: Basic principles connecting differentiation and integration and laws and conservation 
 - **Differential calculus**:
-  - Derivative of a function: Limit of a function and Newton’s quotient
-  - Derivative rules: Power rule, product rule, quotient rule, chain rule
-  - Derivative of special functions: Exponential, log, and trigonometric functions
-  - Derivative tests: Singular points, critical points, and optimization
-  - Derivatives of multivariable systems: Multivariable systems, parametric equations and derivatives, partial derivatives  and implicit differentiation
-  - Vector calculus: Vector fields, gradients, divergence, and curl
-  - Taylor series and expansions: Series expansion for function approximation, and Maclaurin series
+  - Derivative of a function: Limit of a function and Newton’s quotient (Homework 5)
+  - Derivative rules: Power rule, product rule, quotient rule, chain rule (Homework 5)
+  - Derivative of special functions: Exponential, log, and trigonometric functions (Homework 5)
+  - Derivative tests: Singular points, critical points, and optimization (Homework 5)
+  - Derivatives of multivariable systems: Multivariable systems, parametric equations and derivatives, partial derivatives  and implicit differentiation (Homework 6)
+  - Vector calculus: Vector fields, gradients, divergence, and curl (Homework 6)
+  - Taylor series and expansions: Series expansion for function approximation, and Maclaurin series (Homework 6)
 - **Integral calculus**:
-  - Definite and indefinite integrals,
-  - integration techniques,
-  - double and higher order integration,
-  - moments of a function,
-  - infinite series  
+  - Definite and indefinite integrals (Homework 7)
+  - integration techniques (Homework 7)
+  - double and higher order integration (Homework 8)
+  - moments of a function (Homework 8)
+  - infinite series  (Homework 8)
 - **Differential equations**:
-  - Basics of ordinary and partial differential equations,
-  - analytical solutions with separation of variables,
-  - analytical solutions using an integrating factor,
-  - groundwater example of an analytical solution of a non-homogenous and non-linear second order ordinary differential equation,
-  - converting total derivative to partial derivatives
-- **Critical-thinking exercise**: Predator-prey model in engineering applications
-- **Practical applications of integral calculus**: Addressing conceptual model uncertainty using Bayesian analysis  
+  - Basics of ordinary and partial differential equations (Homework 9)
+  - analytical solutions with separation of variables (Homework 9)
+  - analytical solutions using an integrating factor (Homework 9)
+  - groundwater example of an analytical solution of a non-homogenous and non-linear second order ordinary differential equation (Homework 10)
+  - converting total derivative to partial derivatives (Homework 10)
+- **Critical-thinking exercise**: Predator-prey model in engineering applications (Homework 10)
+- **Practical applications of integral calculus**: Addressing conceptual model uncertainty using Bayesian analysis (Homework 10)
 
 #### 3) Computer simulation and modeling (required module) – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations
-- **Mathematical modeling for egineering**: Basics of formulating mathematical models from physical phenomena
-- **Numerical solutions of differential equations**: Techniques for solving ordinary and partial differential equations numerically
-- **Critical-thinking exercise**: Formulating and solving the mathematical model for contaminant transport 
-- **Practical applications of mathematical modeling**: Transport modeling of PFAS emerging contaminants
+- **Mathematical modeling for egineering**: Basics of formulating mathematical models from physical phenomena (Homework 11)
+- **Numerical solutions of differential equations**: Techniques for solving ordinary and partial differential equations numerically (Homework 11)
+- **Critical-thinking exercise**: Formulating and solving the mathematical model for contaminant transport (Homework 11)
+- **Practical applications of mathematical modeling**: Transport modeling of PFAS emerging contaminants (Homework 11) 
 
 #### 4) Linear algebra (elective module) – 1 Weeks
 **Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis 
-- **Matrix algebra and operations**: Introduction to matrices, determinants, and operations
-- **Solving systems of linear equations**: Techniques for finding solutions to linear systems
-- **Critical-thinking exercise**: Mass balance of a system of reactors
-- **Practical applications of linear algebra**:  Geostatistics for reconstructing hydrostratigraphy
+- **Matrix algebra and operations**: Introduction to matrices, determinants, and operations (Homework 12)
+- **Solving systems of linear equations**: Techniques for finding solutions to linear systems (Homework 12)
+- **Critical-thinking exercise**: Mass balance of a system of reactors (Homework 12)
+- **Practical applications of linear algebra**:  Geostatistics for reconstructing hydrostratigraphy (Homework 12)
   
 #### 5) Optimization (elective module) – 1 Weeks
 **Learning objectives**: Equip students with optimization techniques relevant to engineering problem solving
-- **Optimization fundamentals**: Introduction to optimization problems in engineering
-- **Computational optimization techniques**: Numerical methods for optimization
-- **Critical-thinking exercise**: Least-cost treatment of wastewater
-- **Practical applications of optimization**: Using simulation optimization in groundwater remediation and groundwater sustainability evaluation
+- **Optimization fundamentals**: Introduction to optimization problems in engineering (Homework 12)
+- **Computational optimization techniques**: Numerical methods for optimization (Homework 12)
+- **Critical-thinking exercise**: Least-cost treatment of wastewater (Homework 12)
+- **Practical applications of optimization**: Using simulation optimization in groundwater remediation and groundwater sustainability evaluation (Homework 12)
 
 ## Course Materials
 Slides and videos will be available on Canvas. Key references used in preparing course materials include:
