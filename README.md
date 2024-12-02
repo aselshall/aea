@@ -47,7 +47,8 @@ This course is designed for students in construction management, environmental e
  
 #### 2) Calculus (required module) – 6 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (15 contact hours)
-- **Fundamental theorem of calculus**: Basic principles connecting differentiation and integration and laws and conservation 
+-**Introduction to Calculus**
+  - Fundamental theorem of calculus: Basic principles connecting differentiation and integration, and conservation laws (Homework 5)
 - **Differential calculus**:
   - Derivative of a function: Limit of a function and Newton’s quotient (Homework 5)
   - Derivative rules: Power rule, product rule, quotient rule, chain rule (Homework 5)
@@ -57,21 +58,22 @@ This course is designed for students in construction management, environmental e
   - Vector calculus: Vector fields, gradients, divergence, and curl (Homework 6)
   - Taylor series and expansions: Series expansion for function approximation, and Maclaurin series (Homework 6)
 - **Integral calculus**:
-  - Integral of a function:  Indefinite and definite integrals
-  - Integrals of special functions: Exponential, log, and trigonometric functions
-  - Elementary integration operations: Separation of terms and integration by parts
-  - Higher order integration: Double integration, and moments of a function
-  - Integral functions: Infinite series solutions such as exponential function, error function, gamma function and Euler constant
+  - Integral of a function:  Indefinite and definite integrals (Homework 7)
+  - Integrals of special functions: Exponential, log, and trigonometric functions (Homework 7)
+  - Elementary integration operations: Separation of terms and integration by parts (Homework 7)
+  - Higher order integration: Double integration, and moments of a function (Homework 7)
+  - Addressing conceptual model uncertainty using Bayesian analysis (optional topic)
+  - Integral functions: Infinite series solutions such as exponential function, error function, gamma function and Euler constant (Homework 7)
 - **Differential equations**: 
-  - Basics of ordinary and partial differential equations (Homework 9)
-  - Analytical solutions with separation of variables (Homework 9)
+  - Basics of ordinary and partial differential equations (Homework 8)
+  - Analytical solutions with separation of variables (Homework 8)
   - Analytical solutions using an integrating factor (optional topic)
-  - Groundwater example of an analytical solution of a non-homogenous and non-linear second order ordinary differential equation (Homework 10)
-  - Total derivative and partial derivatives (Homework 10)
+  - Groundwater example of an analytical solution of a non-homogenous and non-linear second order ordinary differential equation (Homework 9)
+  - Total derivative and partial derivatives (Homework 9)
 - **Critical-thinking exercise**:
   - Predator-prey model in engineering applications (Homework 10) 
-- **Practical applications of integral calculus**:
-  - Addressing conceptual model uncertainty using Bayesian analysis (optional topic)
+- **Practical applications of differential equations**:
+  - Driving the differential euqation of groundwater flow based on mass conservation (Homework 10)
 
 #### 3) Computer simulation and modeling (required module) – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations
