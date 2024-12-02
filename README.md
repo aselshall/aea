@@ -46,8 +46,9 @@ This course is designed for students in construction management, environmental e
   - Practice dimensional analysis, conservation laws, and unit conversion for FE exam (Homework 4)
  
 #### 2) Calculus (required module) – 6 Weeks
-**Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (15 contact hours)
--**Introduction to Calculus**
+**Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (15 contact hours) 
+
+- **Introduction to Calculus**
   - Fundamental theorem of calculus: Basic principles connecting differentiation and integration, and conservation laws (Homework 5)
 - **Differential calculus**:
   - Derivative of a function: Limit of a function and Newton’s quotient (Homework 5)
@@ -77,10 +78,14 @@ This course is designed for students in construction management, environmental e
 
 #### 3) Computer simulation and modeling (required module) – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations
-- **Mathematical modeling for egineering**: Basics of formulating mathematical models from physical phenomena (Homework 11)
-- **Numerical solutions of differential equations**: Techniques for solving ordinary and partial differential equations numerically (Homework 11)
-- **Critical-thinking exercise**: Formulating and solving the mathematical model for contaminant transport (Homework 11)
-- **Practical applications of mathematical modeling**: Transport modeling of PFAS emerging contaminants (Homework 11) 
+- **Mathematical modeling for egineering**:
+  - Basics of formulating mathematical models from physical phenomena (Homework 11)
+- **Numerical solutions of differential equations**:
+  - Techniques for solving ordinary and partial differential equations numerically (Homework 11)
+- **Critical-thinking exercise**:
+  - Formulating and solving the mathematical model for contaminant transport (Homework 11)
+- **Practical applications of mathematical modeling**:
+  - Transport modeling of PFAS emerging contaminants (Homework 11) 
 
 #### 4) Linear algebra (elective module) – 1 Weeks
 **Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis 
