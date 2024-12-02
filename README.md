@@ -57,11 +57,11 @@ This course is designed for students in construction management, environmental e
   - Vector calculus: Vector fields, gradients, divergence, and curl (Homework 6)
   - Taylor series and expansions: Series expansion for function approximation, and Maclaurin series (Homework 6)
 - **Integral calculus**:
-  - Definite and indefinite integrals (Homework 7)
-  - Integration techniques (Homework 7)
-  - Double and higher order integration (Homework 8)
-  - Moments of a function (Homework 8)
-  - Infinite series  (Homework 8)
+  - Integral of a function:  Indefinite and definite integrals
+  - Integrals of special functions: Exponential, log, and trigonometric functions
+  - Elementary integration operations: Separation of terms and integration by parts
+  - Higher order integration: Double integration, and moments of a function
+  - Integral functions: Infinite series solutions such as exponential function, error function, gamma function and Euler constant
 - **Differential equations**: 
   - Basics of ordinary and partial differential equations (Homework 9)
   - Analytical solutions with separation of variables (Homework 9)
