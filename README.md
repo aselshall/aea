@@ -33,20 +33,29 @@ At the completion of the course, students will be able to:
 ## Course Schedule 
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Each student must complete the required modules and choose at least one elective module based on their interest. These topics are tentative and subject to change based on class progress. 
 
-#### 1) Basic concepts – 4 Weeks
+#### 0) Introduction
 **Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (10 contact hours)
+
 - **Introduction to advanced engineering analysis**:
   - Overview of course structure and goals (Homework 1)
+
+#### 1) Dimensional analysis – 2 Weeks
+**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (10 contact hours)
+
 - **Dimensional analysis**:
   - Dimensions, units, and dimensional homogeneity  (Homework 1)
   - Physical models, similarity, Buckingham's Pi theorem, and scaling laws (Homework 2)
+
+#### 2) Conservation laws – 2 Weeks
+**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (10 contact hours)
+
 - **Conservation laws**:
   - Conservation of mass, energy and momentum (Homework 3)
   - Applications of conservation of mass in contaminant transport, hydrology, and fluid mechanics (Homework 3)
   - Applications of conservation of energy in fluid mechanics (Homework 4) 
   - Practice dimensional analysis, conservation laws, and unit conversion for FE exam (Homework 4)
- 
-#### 2) Calculus – 6 Weeks
+  
+#### 3) Calculus – 6 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (15 contact hours) 
 
 - **Introduction to Calculus**
@@ -75,7 +84,7 @@ This course is designed for students in construction management, environmental e
   - Predator-prey model in engineering applications (Homework 10) 
  
 
-#### 3) Computer simulation and modeling – 3 Weeks
+#### 4) Computer simulation and modeling – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations (7.5 contact hours)
 - **Mathematical modeling for egineering**:
   - Basics of formulating mathematical models from physical phenomena (Homework 11)
@@ -86,7 +95,7 @@ This course is designed for students in construction management, environmental e
 - **Practical applications of mathematical modeling**:
   - Transport modeling of PFAS emerging contaminants (Homework 11) 
 
-#### 4) Linear algebra – 1 Weeks 
+#### 5) Linear algebra – 1 Weeks 
 **Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis (2.5 contact hours)
 - **Matrix algebra and operations**: Introduction to matrices, determinants, and operations (Homework 12)
 - **Solving systems of linear equations**: Techniques for finding solutions to linear systems (Homework 12)
