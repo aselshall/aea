@@ -74,7 +74,7 @@ This course is designed for students in construction management, environmental e
  
 
 #### 3) Computer simulation and modeling – 3 Weeks
-**Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations
+**Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations (7.5 contact hours)
 - **Mathematical modeling for egineering**:
   - Basics of formulating mathematical models from physical phenomena (Homework 11)
 - **Numerical solutions of differential equations**:
@@ -84,8 +84,8 @@ This course is designed for students in construction management, environmental e
 - **Practical applications of mathematical modeling**:
   - Transport modeling of PFAS emerging contaminants (Homework 11) 
 
-#### 4) Linear algebra – 1 Weeks
-**Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis 
+#### 4) Linear algebra – 1 Weeks 
+**Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis (2.5 contact hours)
 - **Matrix algebra and operations**: Introduction to matrices, determinants, and operations (Homework 12)
 - **Solving systems of linear equations**: Techniques for finding solutions to linear systems (Homework 12)
 - **Critical-thinking exercise**: Mass balance of a system of reactors (Homework 12)
