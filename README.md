@@ -62,19 +62,17 @@ This course is designed for students in construction management, environmental e
   - Integral of a function:  Indefinite and definite integrals (Homework 8)
   - Integrals of special functions: Exponential, log, and trigonometric functions (Homework 8)
   - Elementary integration operations: Separation of terms and integration by parts (Homework 8)
-  - Higher order integration: Double integration, and moments of a function (Homework 8)
+  - Higher order integration: Double integration, and moments of a function (Homework 9)
   - Addressing conceptual model uncertainty using Bayesian analysis (optional topic)
-  - Integral functions: Infinite series solutions such as exponential function, error function, gamma function and Euler constant (Homework 8)
+  - Integral functions: Infinite series solutions such as exponential function, error function, gamma function and Euler constant (Homework 9)
 - **Differential equations**: 
   - Basics of ordinary and partial differential equations (Homework 9)
   - Analytical solutions with separation of variables (Homework 9)
   - Analytical solutions using an integrating factor (optional topic)
-  - Groundwater example of an analytical solution of a non-homogenous and non-linear second order ordinary differential equation (Homework 9)
-  - Total derivative and partial derivatives (Homework 9)
-- **Critical-thinking exercise**:
-  - Predator-prey model in engineering applications (Homework 10) 
-- **Practical applications of differential equations**:
   - Driving the differential euqation of groundwater flow based on mass conservation (Homework 10)
+  - Groundwater example of an analytical solution of a non-homogenous and non-linear second order ordinary differential equation (Homework 10)
+  - Predator-prey model in engineering applications (Homework 10) 
+ 
 
 #### 3) Computer simulation and modeling (required module) – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations
