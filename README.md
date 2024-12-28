@@ -36,13 +36,13 @@ This course is designed for students in construction management, environmental e
 #### 1) Basic concepts – 4 Weeks
 **Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (10 contact hours)
 - **Introduction to advanced engineering analysis**:
-  - Overview of course structure and goals, emphasizing real-world applications (Homework 1)
+  - Overview of course structure and goals (Homework 1)
 - **Dimensional analysis**:
   - Dimensions, units, and dimensional homogeneity  (Homework 1)
   - Physical models, similarity, Buckingham's Pi theorem, and scaling laws (Homework 2)
 - **Conservation laws**:
   - Conservation of mass, energy and momentum (Homework 3)
-  - Apply conservation of mass to contaminate transport, hydrology, and fluid mechanics (Homework 3)
+  - Apply conservation of mass to contaminant transport, hydrology, and fluid mechanics (Homework 3)
   - Apply conservation of energy to fluid mechaics (Homework 4)
   - Practice dimensional analysis, conservation laws, and unit conversion for FE exam (Homework 4)
  
