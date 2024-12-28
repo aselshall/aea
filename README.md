@@ -42,6 +42,8 @@ This course is designed for students in construction management, environmental e
   - Physical models, similarity, Buckingham's Pi theorem, and scaling laws (Homework 2)
 - **Conservation laws**:
   - Conservation of mass, energy and momentum (Homework 3)
+  - Apply conservation of mass to contaminate transport, hydrology, and fluid mechanics (Homework 3)
+  - Apply conservation of energy to fluid mechaics (Homework 4)
   - Practice dimensional analysis, conservation laws, and unit conversion for FE exam (Homework 4)
  
 #### 2) Calculus – 6 Weeks
