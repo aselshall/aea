@@ -33,7 +33,7 @@ At the completion of the course, students will be able to:
 ## Course Schedule 
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Each student must complete the required modules and choose at least one elective module based on their interest. These topics are tentative and subject to change based on class progress. 
 
-#### 1) Basic concepts (required module) – 4 Weeks
+#### 1) Basic concepts – 4 Weeks
 **Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (10 contact hours)
 - **Introduction to advanced engineering analysis**:
   - Overview of course structure and goals, emphasizing real-world applications (Homework 1)
@@ -45,7 +45,7 @@ This course is designed for students in construction management, environmental e
 - **Critical-thinking exercise**:
   - Practice dimensional analysis, conservation laws, and unit conversion for FE exam (Homework 4)
  
-#### 2) Calculus (required module) – 6 Weeks
+#### 2) Calculus – 6 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (15 contact hours) 
 
 - **Introduction to Calculus**
@@ -74,7 +74,7 @@ This course is designed for students in construction management, environmental e
   - Predator-prey model in engineering applications (Homework 10) 
  
 
-#### 3) Computer simulation and modeling (required module) – 3 Weeks
+#### 3) Computer simulation and modeling – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations
 - **Mathematical modeling for egineering**:
   - Basics of formulating mathematical models from physical phenomena (Homework 11)
@@ -85,19 +85,12 @@ This course is designed for students in construction management, environmental e
 - **Practical applications of mathematical modeling**:
   - Transport modeling of PFAS emerging contaminants (Homework 11) 
 
-#### 4) Linear algebra (elective module) – 1 Weeks
+#### 4) Linear algebra – 1 Weeks
 **Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis 
 - **Matrix algebra and operations**: Introduction to matrices, determinants, and operations (Homework 12)
 - **Solving systems of linear equations**: Techniques for finding solutions to linear systems (Homework 12)
 - **Critical-thinking exercise**: Mass balance of a system of reactors (Homework 12)
 - **Practical applications of linear algebra**:  Geostatistics for reconstructing hydrostratigraphy (Homework 12)
-  
-#### 5) Optimization (elective module) – 1 Weeks
-**Learning objectives**: Equip students with optimization techniques relevant to engineering problem solving
-- **Optimization fundamentals**: Introduction to optimization problems in engineering (Homework 12)
-- **Computational optimization techniques**: Numerical methods for optimization (Homework 12)
-- **Critical-thinking exercise**: Least-cost treatment of wastewater (Homework 12)
-- **Practical applications of optimization**: Using simulation optimization in groundwater remediation and groundwater sustainability evaluation (Homework 12)
 
 ## Course Materials
 Slides and videos will be available on Canvas. Key references used in preparing course materials include:
