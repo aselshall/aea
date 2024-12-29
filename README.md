@@ -9,7 +9,7 @@ EGN 6430 Advanced Engineering Analysis
 CRN: [15845](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202501&crn=15845)  
 Credit hours: 3  
 Class: Online - Asynchronous   
-Exam: Tuesday Apr 29 - In-Person (Exam time and location will be announced)
+Exam: Tuesday Apr 28 - In-Person (Exam time and location will be announced)
 
 ## Instructor 
 Ahmed S. Elshall, PhD  
@@ -51,7 +51,7 @@ These topics and number of assignments are tentative and subject to change based
 | 13   | 6-Apr - 12-Apr   | Computer simulation and modeling: Numerical solutions          | Homework 12 |
 | 14   | 13-Apr - 19-Apr  | Computer simulation and modeling: Engineering applications     | Homework 13 |
 | 15   | 20-Apr - 26-Apr  | Linear algebra: Solving systems of linear equations            | Homework 14 |
-| 16   | 27-Apr           | In-class comprehensive final exam                              | Final exam  |
+| 16   | 28-Apr           | In-class comprehensive final exam                              | Final exam  |
 
 ## Topics
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. These topics are tentative and subject to change based on class progress. 
