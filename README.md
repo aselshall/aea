@@ -172,7 +172,7 @@ A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 
 ## Exam
 - The final comprehensive exam will be in-person, conducted with pencil and paper in FE exam format.
 - Date, time and location will be announced.
-- The exam is two hours consists of 20 multiple-choice and select correct answer questions.
+- The exam is two hours consists of 24 multiple-choice and select correct answer questions.
 - The exam is open-book but no internet access is allowed.
 - Only FE-approved calculators are permitted. All other electronic devices (smart calculators, phones,  watches, laptops) are prohibited.
 - Study guide: If you can solve the exercises, practice problems, and homework, you will be prepared for the exam.
