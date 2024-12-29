@@ -33,14 +33,35 @@ At the completion of the course, students will be able to:
 ## Course Schedule 
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Each student must complete the required modules and choose at least one elective module based on their interest. These topics are tentative and subject to change based on class progress. 
 
-#### 0) Introduction
-**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (10 contact hours)
+| Week | Date (From - To) | Topic                                                          | Due date    |
+|------|------------------|----------------------------------------------------------------|-------------|
+| 1    | 13-Jan - 19-Jan  | Course introduction; Dimensional analysis: Review              | Homework 1  |
+| 2    | 20-Jan           | Martin Luther King Holiday Observed (no classes)               |             |
+| 2    | 20-Jan - 26-Jan  | Dimensional analysis: Pi theorem and physical models           | Homework 2  |
+| 3    | 27-Jan - 2-Feb   | Differential calculus: Review                                  | Homework 3  |
+| 4    | 3-Feb - 9-Feb    | Differential calculus: Optimization                            | Homework 4  |
+| 5    | 10-Feb - 16-Feb  | Differential calculus: Multivariable systems                   | Homework 5  |
+| 6    | 17-Feb - 23-Feb  | Differential calculus: Vector calculus                         | Homework 6  |
+| 7    | 24-Feb - 1-Mar   | Integral calculus: Review                                      | Homework 7  |
+| 8    | 2-Mar - 8-Mar    | Spring break (no classes)                                      |             |
+| 9    | 9-Mar - 15-Mar   | Integral calculus: Integral function                           | Homework 8  |
+| 10   | 16-Mar - 22-Mar  | Differential equations: Laws of conservation                   | Homework 9  |
+| 11   | 23-Mar - 29-Mar  | Differential equations: Engineering applications               | Homework 10 |
+| 12   | 30-Mar - 5-Apr   | Computer simulation and modeling: Mathematical models          | Homework 11 |
+| 13   | 6-Apr - 12-Apr   | Computer simulation and modeling: Numerical solutions          | Homework 12 |
+| 14   | 13-Apr - 19-Apr  | Computer simulation and modeling: Engineering applications     | Homework 13 |
+| 15   | 20-Apr - 26-Apr  | Linear algebra: Solving systems of linear equations            | Homework 14 |
+| 16   | 27-Apr           | In-class comprehensive final exam                              | Final exam  |
+
+
+#### 0) Course Introduction
+**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (0.5 contact hours)
 
 - **Introduction to advanced engineering analysis**:
   - Overview of course structure and goals (Homework 1)
 
 #### 1) Dimensional analysis – 2 Weeks
-**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (10 contact hours)
+**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (9.5 contact hours)
 
 - **Dimensional analysis**:
   - Dimensions, units, and dimensional homogeneity  (Homework 1)
@@ -83,18 +104,18 @@ This course is designed for students in construction management, environmental e
 - **Mathematical modeling for egineering**:
   - Basics of formulating mathematical models from physical phenomena (Homework 11)
 - **Numerical solutions of differential equations**:
-  - Techniques for solving ordinary and partial differential equations numerically (Homework 11)
+  - Techniques for solving ordinary and partial differential equations numerically (Homework 12)
 - **Critical-thinking exercise**:
-  - Formulating and solving the mathematical model for contaminant transport (Homework 11)
+  - Formulating and solving the mathematical model for contaminant transport (Homework 13)
 - **Practical applications of mathematical modeling**:
-  - Transport modeling of PFAS emerging contaminants (Homework 11) 
+  - Transport modeling of PFAS emerging contaminants (Homework 13) 
 
 #### 4) Linear algebra – 1 Weeks (2.5 contact hours)
 **Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis (2.5 contact hours)
-- **Matrix algebra and operations**: Introduction to matrices, determinants, and operations (Homework 12)
-- **Solving systems of linear equations**: Techniques for finding solutions to linear systems (Homework 12)
-- **Critical-thinking exercise**: Mass balance of a system of reactors (Homework 12)
-- **Practical applications of linear algebra**:  Geostatistics for reconstructing hydrostratigraphy (Homework 12)
+- **Matrix algebra and operations**: Introduction to matrices, determinants, and operations (Homework 14)
+- **Solving systems of linear equations**: Techniques for finding solutions to linear systems (Homework 14)
+- **Critical-thinking exercise**: Mass balance of a system of reactors (Homework 14)
+- **Practical applications of linear algebra**:  Geostatistics for reconstructing hydrostratigraphy (Homework 14)
 
 ## Course Materials
 Slides and videos will be available on Canvas. Key references used in preparing course materials include:
