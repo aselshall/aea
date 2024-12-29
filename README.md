@@ -31,7 +31,7 @@ At the completion of the course, students will be able to:
 4. Apply numerical optimization techniques in engineering problem solving 
 
 ## Course Schedule 
-This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Each student must complete the required modules and choose at least one elective module based on their interest. These topics are tentative and subject to change based on class progress. 
+These topics and number of assignments are tentative and subject to change based on class progress. 
 
 | Week | Date (From - To) | Topic                                                          | Due date    |
 |------|------------------|----------------------------------------------------------------|-------------|
@@ -53,6 +53,8 @@ This course is designed for students in construction management, environmental e
 | 15   | 20-Apr - 26-Apr  | Linear algebra: Solving systems of linear equations            | Homework 14 |
 | 16   | 27-Apr           | In-class comprehensive final exam                              | Final exam  |
 
+## Topics
+This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. These topics are tentative and subject to change based on class progress. 
 
 #### 0) Course Introduction
 **Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (0.5 contact hours)
