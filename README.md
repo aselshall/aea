@@ -115,7 +115,7 @@ This course is designed for students in construction management, environmental e
   - Practical applications: Transport modeling of PFAS emerging contaminants (Homework 13) 
 
 #### 4) Linear algebra – 1 Weeks 
-**Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis (2.5 contact hours)
+**Learning Objectives**: Introduction to matrix and vector operations for systems analysis (2.5 contact hours)
 
 - **Systems of linear equations**:
   - Introduction to matrices, determinants, and operations (Homework 14)
