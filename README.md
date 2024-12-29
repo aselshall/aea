@@ -46,45 +46,39 @@ This course is designed for students in construction management, environmental e
   - Dimensions, units, and dimensional homogeneity  (Homework 1)
   - Physical models, similarity, Buckingham's Pi theorem, and scaling laws (Homework 2)
 
-#### 2) Conservation laws – 2 Weeks
-**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (10 contact hours)
-
-- **Conservation laws**:
-  - Conservation of mass, energy and momentum (Homework 3)
-  - Applications of conservation of mass in contaminant transport, hydrology, and fluid mechanics (Homework 3)
-  - Applications of conservation of energy in fluid mechanics (Homework 4) 
-  - Practice dimensional analysis, conservation laws, and unit conversion for FE exam (Homework 4)
-  
-#### 3) Calculus – 6 Weeks
-**Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (15 contact hours) 
+#### 2) Calculus – 8 Weeks
+**Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (20 contact hours) 
 
 - **Introduction to Calculus**
-  - Fundamental theorem of calculus: Basic principles connecting differentiation and integration, and conservation laws (Homework 5)
+  - Fundamental theorem of calculus: Basic principles connecting differentiation and integration, and conservation laws (Homework 3)
+
 - **Differential calculus**:
-  - Derivative of a function: Limit of a function and Newton’s quotient (Homework 5)
-  - Derivative rules: Power rule, product rule, quotient rule, chain rule (Homework 5)
-  - Derivative of special functions: Exponential, log, and trigonometric functions (Homework 5)
-  - Derivative tests: Singular points, critical points, and optimization (Homework 6)
-  - Derivatives of multivariable systems: Multivariable systems, parametric equations and derivatives, partial derivatives  and implicit differentiation (Homework 6)
-  - Vector calculus: Vector fields, gradients, divergence, and curl (Homework 7)
-  - Taylor series and expansions: Series expansion for function approximation, and Maclaurin series (Homework 7)
+  - Derivative of a function: Limit of a function and Newton’s quotient (Homework 3)
+  - Derivative rules: Power rule, product rule, quotient rule, chain rule (Homework 3)
+  - Derivative of special functions: Exponential, log, and trigonometric functions (Homework 3)
+  - Derivative tests: Singular points, critical points, and optimization (Homework 4)
+  - Derivatives of multivariable systems: Multivariable systems, parametric equations and derivatives, partial derivatives  and implicit differentiation (Homework 5)
+  - Vector calculus: Vector fields, gradients, divergence, and curl (Homework 6)
+  - Taylor series and expansions: Series expansion for function approximation, and Maclaurin series (Homework 6)
+
 - **Integral calculus**:
-  - Integral of a function:  Indefinite and definite integrals (Homework 8)
-  - Integrals of special functions: Exponential, log, and trigonometric functions (Homework 8)
-  - Elementary integration operations: Separation of terms and integration by parts (Homework 8)
-  - Higher order integration: Double integration, and moments of a function (Homework 9)
+  - Integral of a function:  Indefinite and definite integrals (Homework 7)
+  - Integrals of special functions: Exponential, log, and trigonometric functions (Homework 7)
+  - Elementary integration operations: Separation of terms and integration by parts (Homework 7)
+  - Higher order integration: Double integration, and moments of a function (Homework 8)
   - Addressing conceptual model uncertainty using Bayesian analysis (optional topic)
-  - Integral functions: Infinite series solutions such as exponential function, error function, gamma function and Euler constant (Homework 9)
+  - Integral functions: Infinite series solutions such as exponential function, error function, gamma function and Euler constant (Homework 8)
+
 - **Differential equations**: 
   - Basics of ordinary and partial differential equations (Homework 9)
+  - Conservation of mass, energy and momentum (Homework 9)
   - Analytical solutions with separation of variables (Homework 9)
   - Analytical solutions using an integrating factor (optional topic)
   - Driving the differential euqation of groundwater flow based on mass conservation (Homework 10)
   - Groundwater example of an analytical solution of a non-homogenous and non-linear second order ordinary differential equation (Homework 10)
   - Predator-prey model in engineering applications (Homework 10) 
  
-
-#### 4) Computer simulation and modeling – 3 Weeks
+#### 3) Computer simulation and modeling – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations (7.5 contact hours)
 - **Mathematical modeling for egineering**:
   - Basics of formulating mathematical models from physical phenomena (Homework 11)
@@ -95,7 +89,7 @@ This course is designed for students in construction management, environmental e
 - **Practical applications of mathematical modeling**:
   - Transport modeling of PFAS emerging contaminants (Homework 11) 
 
-#### 5) Linear algebra – 1 Weeks 
+#### 4) Linear algebra – 1 Weeks (2.5 contact hours)
 **Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis (2.5 contact hours)
 - **Matrix algebra and operations**: Introduction to matrices, determinants, and operations (Homework 12)
 - **Solving systems of linear equations**: Techniques for finding solutions to linear systems (Homework 12)
