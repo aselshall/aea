@@ -103,21 +103,25 @@ This course is designed for students in construction management, environmental e
  
 #### 3) Computer simulation and modeling – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations (7.5 contact hours)
+
 - **Mathematical modeling for egineering**:
   - Basics of formulating mathematical models from physical phenomena (Homework 11)
+
 - **Numerical solutions of differential equations**:
   - Techniques for solving ordinary and partial differential equations numerically (Homework 12)
-- **Critical-thinking exercise**:
-  - Formulating and solving the mathematical model for contaminant transport (Homework 13)
-- **Practical applications of mathematical modeling**:
-  - Transport modeling of PFAS emerging contaminants (Homework 13) 
+
+- **Engineering applications**:
+  - Critical-thinking exercise: Formulating and solving the mathematical model for contaminant transport (Homework 13)
+  - Practical applications: Transport modeling of PFAS emerging contaminants (Homework 13) 
 
 #### 4) Linear algebra – 1 Weeks 
 **Learning Objectives**: Provide students with matrix and vector operations critical for systems analysis (2.5 contact hours)
-- **Matrix algebra and operations**: Introduction to matrices, determinants, and operations (Homework 14)
-- **Solving systems of linear equations**: Techniques for finding solutions to linear systems (Homework 14)
-- **Critical-thinking exercise**: Mass balance of a system of reactors (Homework 14)
-- **Practical applications of linear algebra**:  Geostatistics for reconstructing hydrostratigraphy (Homework 14)
+
+- **Systems of linear equations**:
+  - Introduction to matrices, determinants, and operations (Homework 14)
+  - Solving systems of linear equations (Homework 14)
+  - Critical-thinking exercise: Mass balance of a system of reactors (Homework 14)
+  - Practical applications of linear algebra:  Geostatistics for reconstructing hydrostratigraphy (Homework 14)
 
 ## Course Materials
 Slides and videos will be available on Canvas. Key references used in preparing course materials include:
