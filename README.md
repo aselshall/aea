@@ -9,7 +9,7 @@ EGN 6430 Advanced Engineering Analysis
 CRN: [15845](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202501&crn=15845)  
 Credit hours: 3  
 Class: Online - Asynchronous   
-Exam: Tuesday Apr 28 - In-Person (Exam time and location will be announced)
+Exam: Monday Apr 28 from 5:00 pm to 7:00 pm - In-Person (Exam location will be announced)
 
 ## Instructor 
 Ahmed S. Elshall, PhD  
@@ -171,8 +171,8 @@ A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 
 
 ## Exam
 - The final comprehensive exam will be in-person, conducted with pencil and paper in FE exam format.
-- Date, time and location will be announced.
-- The exam is two hours consists of 24 multiple-choice and select correct answer questions.
+- Exam location will be announced.
+- The exam is two hours consists of about 25 multiple-choice and select correct answer questions.
 - The exam is open-book but no internet access is allowed.
 - Only FE-approved calculators are permitted. All other electronic devices (smart calculators, phones,  watches, laptops) are prohibited.
 - Study guide: If you can solve the exercises, practice problems, and homework, you will be prepared for the exam.
