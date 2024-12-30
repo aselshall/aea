@@ -14,11 +14,10 @@ After each video, reflect and submit your exit ticket by responding to participa
 
 ### Instructions
 - Watch 2-3 videos per week and submit an exit ticket for each
-- Answer participation questions within the exit ticket discussion if applicable  
+- Answer participation questions in the videos (if applicable) within the exit ticket discussion
 - Exit tickets are due with weekly homework  
 - Submit a participation log at the end of each module  
-- Log your participation by recording: video title, date watched, exit ticket date
-- Comments (include how many participation questions you answered, if any)
+- Log your participation by recording: video title, date watched, exit ticket date, comments (include how many participation questions you answered, if any)
 
 ### Example Log Template
 
