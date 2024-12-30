@@ -25,10 +25,10 @@ Methods of analysis applied to engineering problems. Topics include a review of 
 
 ## Course Learning Objectives
 At the completion of the course, students will be able to:
-1. Perform differentiation and integration using analytical and numeric methods
+1. Perform differentiation and integration using analytical and numerical methods
 2. Apply ordinary differential equations and partial differentiation in engineering problem solving 
 3. Use linear algebra and operations involving matrices to solve simultaneous equations
-4. Apply numerical optimization techniques in engineering problem solving 
+4. Apply optimization techniques in engineering problem solving 
 
 ## Course Schedule 
 These topics and number of assignments are tentative and subject to change based on class progress. 
