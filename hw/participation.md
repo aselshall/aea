@@ -1,7 +1,7 @@
 ## Participation Log
 
 ### Overview
-Your participation grade is based on weekly video exit tickets. Each module includes an exit ticket discussion post. At the end of each module, submit your participation log by following these instructions.  
+Your participation grade is largely based on weekly video exit tickets. Each module includes an exit ticket discussion post. At the end of each module, submit your participation log by following these instructions.  
 
 ### Exit Ticket  
 After each video, reflect and submit your exit ticket by responding to participation questions (if provided) or by sharing general insights. Your response can include:  
