@@ -17,9 +17,9 @@ After each video, reflect and submit your exit ticket by responding to participa
 - Answer participation questions in the videos (if applicable) within the exit ticket discussion
 - Exit tickets are due with weekly homework  
 - Submit a participation log at the end of each module  
-- Log your participation by recording: video title, date watched, exit ticket date, comments (include how many participation questions you answered, if any)
+- Log your participation by recording video title, date watched, exit ticket date, comments (include how many participation questions you answered, if any)
 
-### Example Log Template
+#### Example Log Template
 
 | Video Title                              | Date Watched | Exit Ticket Date | Comments |  
 |---------------------------------------------|------------------|----------------------|--------------|  
@@ -28,11 +28,6 @@ After each video, reflect and submit your exit ticket by responding to participa
 | Dimensional Analysis 2                       | Jan 14, 2025     | Jan 14, 2025         | 1 question answered |  
 
 ### Grading
-- Full Credit:  
-  - All exit tickets submitted on time.  
-  - Participation questions fully answered.  
-  - Participation log matches Canvas records.  
-- Partial Credit:
-  - Late submissions or incomplete/mismatched logs.  
-- No Credit: 
-  - Missed exit tickets.  
+- Full Credit for all exit tickets submitted on time, participation questions fully answered, and participation log matches Canvas records
+- Partial credit for late submissions or incomplete/mismatched logs  
+- No Credit for missed exit tickets or participation Log
