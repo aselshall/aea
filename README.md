@@ -2,7 +2,7 @@
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
 Spring 2025  
-Last updated: Nov 14, 2024  
+Last updated: Jan 3, 2024  
 
 ## Course Information
 EGN 6430 Advanced Engineering Analysis    
@@ -35,23 +35,24 @@ These topics and number of assignments are tentative and subject to change based
 
 | Week | Date (From - To) | Topic                                                          | Due date    |
 |------|------------------|----------------------------------------------------------------|-------------|
-| 1    | 13-Jan - 19-Jan  | Course introduction; Dimensional analysis: Review              | Homework 1  |
-| 2    | 20-Jan           | Martin Luther King Holiday Observed (no classes)               |             |
-| 2    | 20-Jan - 26-Jan  | Dimensional analysis: Pi theorem and physical models           | Homework 2  |
-| 3    | 27-Jan - 2-Feb   | Differential calculus: Review                                  | Homework 3  |
-| 4    | 3-Feb - 9-Feb    | Differential calculus: Optimization                            | Homework 4  |
-| 5    | 10-Feb - 16-Feb  | Differential calculus: Multivariable systems                   | Homework 5  |
-| 6    | 17-Feb - 23-Feb  | Differential calculus: Vector calculus                         | Homework 6  |
-| 7    | 24-Feb - 1-Mar   | Integral calculus: Review                                      | Homework 7  |
-| 8    | 2-Mar - 8-Mar    | Spring break (no classes)                                      |             |
-| 9    | 9-Mar - 15-Mar   | Integral calculus: Integral function                           | Homework 8  |
+| 1    | 6-Jan - 12-Jan    | Course introduction; Dimensional analysis: Review              | Homework 1  |
+| 2    | 13-Jan - 19-Jan  | Dimensional analysis: Pi theorem and physical models           | Homework 2  |
+| 3    | 20-Jan           | Martin Luther King Holiday Observed (no classes)               |             |
+| 3    | 20-Jan - 26-Jan   | Differential calculus: Review                                  | Homework 3  |
+| 4    | 27-Jan - 2-Feb   | Differential calculus: Optimization                            | Homework 4  |
+| 5    | 3-Feb - 9-Feb  | Differential calculus: Multivariable systems                   | Homework 5  |
+| 6    | 10-Feb - 16-Feb   | Differential calculus: Vector calculus                         | Homework 6  |
+| 7    | 17-Feb - 23-Feb   | Integral calculus: Review                                      | Homework 7  |
+| 8    | 24-Feb - 1-Mar   | Integral calculus: Integral function                           | Homework 8  |
+| 9    | 2-Mar - 8-Mar    | Spring break (no classes)                                      |             |
 | 10   | 16-Mar - 22-Mar  | Differential equations: Laws of conservation                   | Homework 9  |
 | 11   | 23-Mar - 29-Mar  | Differential equations: Engineering applications               | Homework 10 |
 | 12   | 30-Mar - 5-Apr   | Computer simulation and modeling: Mathematical models          | Homework 11 |
 | 13   | 6-Apr - 12-Apr   | Computer simulation and modeling: Numerical solutions          | Homework 12 |
 | 14   | 13-Apr - 19-Apr  | Computer simulation and modeling: Engineering applications     | Homework 13 |
 | 15   | 20-Apr - 26-Apr  | Linear algebra: Solving systems of linear equations            | Homework 14 |
-| 16   | 28-Apr           | In-class comprehensive final exam                              | Final exam  |
+| 16   | 20-Apr - 26-Apr  | Linear algebra: Solving systems of linear equations            | Homework 15 |
+| 17   | 30-Apr           | In-class comprehensive final exam                              | Final exam  |
 
 ## Topics
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. These topics are tentative and subject to change based on class progress. 
@@ -63,19 +64,22 @@ This course is designed for students in construction management, environmental e
   - Overview of course structure and goals (Homework 1)
 
 #### 1) Dimensional analysis – 2 Weeks
-**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (9.5 contact hours)
+**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (4.5 contact hours)
 
-- **Dimensional analysis**:
-  - Dimensions, units, and dimensional homogeneity  (Homework 1)
-  - Physical models, similarity, Buckingham's Pi theorem, and scaling laws (Homework 2)
+- **Review of Dimensional analysis**:
+  - Dimensions and units (Homework 1)
+  - Dimensional homogeneity  (Homework 1)
+
+- **Pi theorem**:
+  - Physical models, similarity, and Pi theorem (Homework 2)
+  - Pi theorem for dimensional analysis (Homework 2)
+  - Pi theorem, scaling laws and physical modeling (Homework 2)
 
 #### 2) Calculus – 8 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (20 contact hours) 
 
-- **Introduction to Calculus**
-  - Fundamental theorem of calculus: Basic principles connecting differentiation and integration, and conservation laws (Homework 3)
-
 - **Differential calculus**:
+  - Fundamental theorem of calculus: Basic principles connecting differentiation and integration, and conservation laws (Homework 3)
   - Derivative of a function: Limit of a function and Newton’s quotient (Homework 3)
   - Derivative rules: Power rule, product rule, quotient rule, chain rule (Homework 3)
   - Derivative of special functions: Exponential, log, and trigonometric functions (Homework 3)
@@ -114,8 +118,8 @@ This course is designed for students in construction management, environmental e
   - Critical-thinking exercise: Formulating and solving the mathematical model for contaminant transport (Homework 13)
   - Practical applications: Transport modeling of PFAS emerging contaminants (Homework 13) 
 
-#### 4) Linear algebra – 1 Weeks 
-**Learning Objectives**: Introduction to matrix and vector operations for systems analysis (2.5 contact hours)
+#### 4) Linear algebra – 2 Weeks 
+**Learning Objectives**: Introduction to matrix and vector operations for systems analysis (5 contact hours)
 
 - **Systems of linear equations**:
   - Introduction to matrices, determinants, and operations (Homework 14)
