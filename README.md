@@ -124,8 +124,11 @@ This course is designed for students in construction management, environmental e
 - **Systems of linear equations**:
   - Introduction to matrices, determinants, and operations (Homework 14)
   - Solving systems of linear equations (Homework 14)
-  - Critical-thinking exercise: Mass balance of a system of reactors (Homework 14)
-  - Practical applications of linear algebra:  Geostatistics for reconstructing hydrostratigraphy (Homework 14)
+  - Critical-thinking exercise: Mass balance of a system of reactors (Homework 14) 
+
+- **Engineering applications**:
+  - Practical applications of linear algebra in hydrology (Homework 15)
+  - Practical applications of linear algebra in aquatic chemistry (Homework 15)
 
 ## Course Materials
 Slides and videos will be available on Canvas. Key references used in preparing course materials include:
