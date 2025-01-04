@@ -2,7 +2,7 @@
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
 Spring 2025  
-Last updated: Jan 3, 2024  
+Last updated: Jan 3, 2025  
 
 ## Course Information
 EGN 6430 Advanced Engineering Analysis    
