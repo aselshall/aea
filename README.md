@@ -99,8 +99,8 @@ This course is designed for students in construction management, environmental e
   - Basics of ordinary and partial differential equations:  Order, linearity, and homogeneity  of differential equations (Homework 9)
   - Laws of Conservation: Conservation of mass, energy and momentum (Homework 9)
   - Analytical solutions of differential equations: Separation of variables and  integrating factor - optional topic (Homework 9)
-  - Driving a differential equation from mass conservation: Groundwater flow equation with analytical solution (Homework 10)
-  - Predator-prey model: Engineering applications (Homework 10)
+  - Engineering applications: Groundwater flow equation with analytical solution (Homework 10)
+  - Predator-prey model: A critical thinking exercise (Homework 10)
 
 #### 3) Computer simulation and modeling – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations (7.5 contact hours)
