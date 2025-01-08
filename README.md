@@ -58,13 +58,13 @@ These topics and number of assignments are tentative and subject to change based
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. These topics are tentative and subject to change based on class progress. 
 
 #### 0) Course Introduction
-**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (0.5 contact hours)
+**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (1 contact hours)
 
 - **Introduction to advanced engineering analysis**:
   - Overview of course structure and goals (Homework 1)
 
 #### 1) Dimensional analysis – 2 Weeks
-**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (4.5 contact hours)
+**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (4 contact hours)
 
 - **Review of Dimensional analysis**:
   - Dimensions and units (Homework 1)
@@ -93,18 +93,15 @@ This course is designed for students in construction management, environmental e
   - Integrals of special functions: Exponential, log, and trigonometric functions (Homework 7)
   - Elementary integration operations: Separation of terms and integration by parts (Homework 7)
   - Higher order integration: Double integration, and moments of a function (Homework 8)
-  - Addressing conceptual model uncertainty using Bayesian analysis (optional topic)
   - Integral functions: Infinite series solutions such as exponential function, error function, gamma function and Euler constant (Homework 8)
 
 - **Differential equations**: 
-  - Basics of ordinary and partial differential equations (Homework 9)
-  - Conservation of mass, energy and momentum (Homework 9)
-  - Analytical solutions with separation of variables (Homework 9)
-  - Analytical solutions using an integrating factor (optional topic)
-  - Driving the differential euqation of groundwater flow based on mass conservation (Homework 10)
-  - Groundwater example of an analytical solution of a non-homogenous and non-linear second order ordinary differential equation (Homework 10)
-  - Predator-prey model in engineering applications (Homework 10) 
- 
+  - Basics of ordinary and partial differential equations:  Order, linearity, and homogeneity  of differential equations (Homework 9)
+  - Laws of Conservation: Conservation of mass, energy and momentum (Homework 9)
+  - Analytical solutions of differential equations: Separation of variables and  integrating factor - optional topic (Homework 9)
+  - Driving a differential equation from mass conservation: Groundwater flow equation with analytical solution (Homework 10)
+  - Predator-prey model: Engineering applications (Homework 10)
+
 #### 3) Computer simulation and modeling – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations (7.5 contact hours)
 
