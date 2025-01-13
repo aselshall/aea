@@ -4,7 +4,7 @@ U.A. Whitaker College of Engineering
 Spring 2025  
 Last updated: Jan 3, 2025  
 
-YouTube Videos: [Link](https://www.youtube.com/playlist?list=PLYJuWYhfyGeN2pncUHlOtFBSrTwEWwLTj)
+Recorded Lessons: [Link](https://www.youtube.com/playlist?list=PLYJuWYhfyGeN2pncUHlOtFBSrTwEWwLTj)
 
 ## Course Information
 EGN 6430 Advanced Engineering Analysis    
