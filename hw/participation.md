@@ -34,32 +34,32 @@ After each video, reflect and submit your exit ticket by responding to participa
 
 
 ### Lessons
-| Module                 | Lesson                          | Part                                         |
-|------------------------|---------------------------------|---------------------------------------------|
-| Introduction           | Advanced Engineering Analysis  | Overview of course structure and goals      |
-| Dimensional Analysis   | Dimensional Analysis Review    | Dimensions and Units                        |
-| Dimensional Analysis   | Dimensional Analysis Review    | Dimensional Homogeneity                     |
-| Dimensional Analysis   | Pi Theorem                     | Physical Models and Principles of Similarity|
-| Dimensional Analysis   | Pi Theorem                     | Non-dimensional Parameters                  |
-| Dimensional Analysis   | Pi Theorem                     | Scaling Laws and Physical Models            |
-| Differential Calculus  | Fundamentals of Derivatives    | Fundamental Theorem of Calculus             |
-| Differential Calculus  | Fundamentals of Derivatives    | Derivative Rules                            |
-| Differential Calculus  | Fundamentals of Derivatives    | Derivatives of Special Functions            |
-| Differential Calculus  | Derivative Tests               | Singular and Critical Points                |
-| Differential Calculus  | Derivative Tests               | Optimization                                |
-| Differential Calculus  | Derivative Tests               | Engineering Applications                    |
-| Differential Calculus  | Multivariable Derivatives      | Parametric Equations                        |
-| Differential Calculus  | Multivariable Derivatives      | Partial Derivatives                         |
-| Differential Calculus  | Multivariable Derivatives      | Implicit Differentiation                    |
-| Differential Calculus  | Vector Calculus                | Gradient                                    |
-| Differential Calculus  | Vector Calculus                | Divergence and Cruel                        |
-| Differential Calculus  | Taylor Series                  | Series Expansion and Function Approximation |
-| Integral Calculus      | Fundamentals of Integrals      | Integration Rules and Integral of Special Functions |
-| Integral Calculus      | Fundamentals of Integrals      | Elementary Integration Operations           |
-| Integral Calculus      | Fundamentals of Integrals      | Higher Order Integration                    |
-| Integral Calculus      | Integral Functions             | Infinite Series Solutions                   |
-| Differential Equations | Fundamentals of Differential Equations | Basic Terms                        |
-| Differential Equations | Fundamentals of Differential Equations | Laws of Conservations               |
-| Differential Equations | Fundamentals of Differential Equations | Analytical Solutions               |
-| Differential Equations | Applications of Differential Equations | Engineering Applications          |
-| Differential Equations | Applications of Differential Equations | Predator Prey Model               |
+| Video # | Module                 | Lesson                          | Part                                         |
+|---------|------------------------|---------------------------------|---------------------------------------------|
+| 1       | Introduction           | Advanced Engineering Analysis  | Overview of course structure and goals      |
+| 2       | Dimensional Analysis   | Dimensional Analysis Review    | Dimensions and Units                        |
+| 3       | Dimensional Analysis   | Dimensional Analysis Review    | Dimensional Homogeneity                     |
+| 4       | Dimensional Analysis   | Pi Theorem                     | Physical Models and Principles of Similarity|
+| 5       | Dimensional Analysis   | Pi Theorem                     | Non-dimensional Parameters                  |
+| 6       | Dimensional Analysis   | Pi Theorem                     | Scaling Laws and Physical Models            |
+| 7       | Differential Calculus  | Fundamentals of Derivatives    | Fundamental Theorem of Calculus             |
+| 8       | Differential Calculus  | Fundamentals of Derivatives    | Derivative Rules                            |
+| 9       | Differential Calculus  | Fundamentals of Derivatives    | Derivatives of Special Functions            |
+| 10      | Differential Calculus  | Derivative Tests               | Singular and Critical Points                |
+| 11      | Differential Calculus  | Derivative Tests               | Optimization                                |
+| 12      | Differential Calculus  | Derivative Tests               | Engineering Applications                    |
+| 13      | Differential Calculus  | Multivariable Derivatives      | Parametric Equations                        |
+| 14      | Differential Calculus  | Multivariable Derivatives      | Partial Derivatives                         |
+| 15      | Differential Calculus  | Multivariable Derivatives      | Implicit Differentiation                    |
+| 16      | Differential Calculus  | Vector Calculus                | Gradient                                    |
+| 17      | Differential Calculus  | Vector Calculus                | Divergence and Cruel                        |
+| 18      | Differential Calculus  | Taylor Series                  | Series Expansion and Function Approximation |
+| 19      | Integral Calculus      | Fundamentals of Integrals      | Integration Rules and Integral of Special Functions |
+| 20      | Integral Calculus      | Fundamentals of Integrals      | Elementary Integration Operations           |
+| 21      | Integral Calculus      | Fundamentals of Integrals      | Higher Order Integration                    |
+| 22      | Integral Calculus      | Integral Functions             | Infinite Series Solutions                   |
+| 23      | Differential Equations | Fundamentals of Differential Equations | Basic Terms                        |
+| 24      | Differential Equations | Fundamentals of Differential Equations | Laws of Conservations               |
+| 25      | Differential Equations | Fundamentals of Differential Equations | Analytical Solutions               |
+| 26      | Differential Equations | Applications of Differential Equations | Engineering Applications          |
+| 27      | Differential Equations | Applications of Differential Equations | Predator Prey Model               |
