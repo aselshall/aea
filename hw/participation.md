@@ -33,7 +33,7 @@ After each video, reflect and submit your exit ticket by responding to participa
 - No Credit for missed exit tickets or participation Log
 
 
-### Videos
+### Videos (tentative)
 | Video # | Module                 | Lesson                          | Part                                         |
 |---------|------------------------|---------------------------------|---------------------------------------------|
 | 1       | Introduction           | Advanced Engineering Analysis  | Overview of course structure and goals      |
