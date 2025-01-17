@@ -118,12 +118,12 @@ This course is designed for students in construction management, environmental e
 #### 4) Differential Equations – 2 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (5 contact hours) 
 
-- **Fundamentals of Differential Equations**: 
+- **Fundamentals of differential equations**: 
   - Basic terms: Order, linearity, and homogeneity of ordinary and partial differential equations includig (Homework 9)
   - Laws of Conservation: Conservation of mass, energy and momentum (Homework 9)
   - Analytical solutions: Separation of variables and integrating factor - optional topic (Homework 9)
 
-- **Applications of Differential Equations**: 
+- **Applications of differential equations**: 
   - Engineering applications: Groundwater flow equation with analytical solution (Homework 10)
   - Predator-prey model: A critical thinking exercise (Homework 10)
 
