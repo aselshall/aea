@@ -59,7 +59,7 @@ These topics and number of assignments are tentative and subject to change based
 ## Topics
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. These topics are tentative and subject to change based on class progress. 
 
-#### 0) Course Introduction
+#### Course Introduction
 **Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (1 contact hours)
 
 - **Introduction to advanced engineering analysis**:
