@@ -59,13 +59,13 @@ These topics and number of assignments are tentative and subject to change based
 ## Topics
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. These topics are tentative and subject to change based on class progress. 
 
-### 0) Course Introduction
+#### 0) Course Introduction
 **Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (1 contact hours)
 
 - **Introduction to advanced engineering analysis**:
   - Overview of course structure and goals (Homework 1)
 
-### 1) Dimensional Analysis – 2 Weeks
+#### 1) Dimensional Analysis – 2 Weeks
 **Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (4 contact hours)
 
 - **Review of dimensional analysis**:
@@ -77,7 +77,7 @@ This course is designed for students in construction management, environmental e
   - Pi theorem for dimensional analysis (Homework 2)
   - Pi theorem, scaling laws and physical modeling (Homework 2)
 
-### 2) Differential Calculus – 4 Weeks
+#### 2) Differential Calculus – 4 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (10 contact hours) 
 
 - **Fundamentals of derivatives**:
@@ -103,7 +103,7 @@ This course is designed for students in construction management, environmental e
 - **Taylor series**:
   - Series expansion for function approximation: Taylor series and Maclaurin series (Homework 6)
 
-### 3) Integral Calculus – 2 Weeks
+#### 3) Integral Calculus – 2 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (5 contact hours) 
 
 - **Fundamentals of integrals**:
@@ -115,7 +115,7 @@ This course is designed for students in construction management, environmental e
 - **Integral functions**:
   - Infinite Series Solutions: Exponential function, error function, gamma function and Euler constant with engineering applications (Homework 8)
 
-### 4) Differential Equations – 2 Weeks
+#### 4) Differential Equations – 2 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (5 contact hours) 
 
 - **Fundamentals of Differential Equations**: 
@@ -127,7 +127,7 @@ This course is designed for students in construction management, environmental e
   - Engineering applications: Groundwater flow equation with analytical solution (Homework 10)
   - Predator-prey model: A critical thinking exercise (Homework 10)
 
-### 5) Computer simulation and modeling – 3 Weeks
+#### 5) Computer simulation and modeling – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations (7.5 contact hours)
 
 - **Mathematical modeling for egineering**:
@@ -140,7 +140,7 @@ This course is designed for students in construction management, environmental e
   - Critical-thinking exercise: Formulating and solving the mathematical model for contaminant transport (Homework 13)
   - Practical applications: Transport modeling of PFAS emerging contaminants (Homework 13) 
 
-### 6) Linear algebra – 2 Weeks 
+#### 6) Linear algebra – 2 Weeks 
 **Learning Objectives**: Introduction to matrix and vector operations for systems analysis (5 contact hours)
 
 - **Systems of linear equations**:
