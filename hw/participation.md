@@ -34,7 +34,7 @@ After each video, reflect and submit your exit ticket by responding to participa
 
 
 ### Videos (tentative)
-| Module                 | Video # | Lesson: Part                                                                 |
+| Module                 | Video # | Video Ttitle (Lesson: Part)                                                  |
 |------------------------|---------|------------------------------------------------------------------------------|
 | 0. Introduction         | 1       | Advanced Engineering Analysis: Overview of course structure and goals       |
 | 1. Dimensional Analysis | 1       | Dimensional Analysis Review: Dimensions and Units                           |
