@@ -127,7 +127,7 @@ This course is designed for students in construction management, environmental e
   - Engineering applications: Groundwater flow equation with analytical solution (Homework 10)
   - Predator-prey model: A critical thinking exercise (Homework 10)
 
-#### 5) Computer simulation and modeling – 3 Weeks
+#### 5) Computer Simulation and Modeling – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations (7.5 contact hours)
 
 - **Mathematical modeling for egineering**:
@@ -140,7 +140,7 @@ This course is designed for students in construction management, environmental e
   - Critical-thinking exercise: Formulating and solving the mathematical model for contaminant transport (Homework 13)
   - Practical applications: Transport modeling of PFAS emerging contaminants (Homework 13) 
 
-#### 6) Linear algebra – 2 Weeks 
+#### 6) Linear Algebra – 2 Weeks 
 **Learning Objectives**: Introduction to matrix and vector operations for systems analysis (5 contact hours)
 
 - **Systems of linear equations**:
