@@ -24,7 +24,7 @@ After each video, reflect and submit your exit ticket by responding to participa
 - Submit a participation log at the end of each module  
 - Log your participation by recording video title, date watched, exit ticket date, comments (include how many participation questions you answered, if any)
 
-#### Example Log Template
+#### Log Template
 
 | Video Title                              | Date Watched | Exit Ticket Date | Comments |  
 |---------------------------------------------|------------------|----------------------|--------------|  
