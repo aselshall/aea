@@ -1,4 +1,4 @@
-## Participation Log
+## [Participation Log](https://aselshall.github.io/aea/hw/participation)
 
 ### Overview
 Your participation grade is largely based on weekly video exit tickets. Each module includes an exit ticket discussion post. At the end of each module, submit your participation log by following these instructions.  
