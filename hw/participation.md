@@ -1,7 +1,12 @@
 ## [Participation Log](https://aselshall.github.io/aea/hw/participation)
 
 ### Overview
-Your participation grade is largely based on weekly video exit tickets. Each module includes an exit ticket discussion post. At the end of each module, submit your participation log by following these instructions.  
+Your participation grade is based on weekly video exit tickets. Each module includes an exit ticket discussion post. At the end of each module, submit your participation log by **following these instructions**.  
+
+### Objectives:
+The objectives of this participation log are to promote:
+- time management and consistent engagement with course content through adherence to weekly deadlines
+- accountability with accurate participation logs aligned with Canvas records to ensure fair grading and prevent grading disputes
 
 ### Exit Ticket  
 After each video, reflect and submit your exit ticket by responding to participation questions (if provided) or by sharing general insights. Your response can include:  
@@ -13,7 +18,7 @@ After each video, reflect and submit your exit ticket by responding to participa
 - A simple ‘thank you’ if no specific feedback is needed  
 
 ### Instructions
-- Watch 2-3 videos per week and submit an exit ticket for each
+- Watch 2-4 videos per week and submit an exit ticket for each
 - Answer participation questions in the videos (if applicable) within the exit ticket discussion
 - Exit tickets are due with weekly homework  
 - Submit a participation log at the end of each module  
