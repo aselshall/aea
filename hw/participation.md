@@ -34,6 +34,8 @@ After each video, reflect and submit your exit ticket by responding to participa
 
 
 ### Videos (tentative)
+
+  
 | Module                 | Video # | Video Title (Lesson: Part)                                                  |
 |------------------------|---------|------------------------------------------------------------------------------|
 | 0. Introduction         | 1       | Advanced Engineering Analysis: Overview of course structure and goals       |
