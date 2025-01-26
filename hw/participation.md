@@ -29,8 +29,8 @@ After each video, reflect and submit your exit ticket by responding to participa
 | Video Title                              | Date Watched | Exit Ticket Date | Comments |  
 |---------------------------------------------|------------------|----------------------|--------------|  
 | Introduction to Advanced Engineering Analysis | Jan 07, 2025     | Jan 07, 2025         | 1 question answered |  
-| Lesson 1.1 Dimensional analysis review: Dimensions and units | Jan 08, 2025     | Jan 08, 2025         |              |  
-| Lesson 1.2 Dimensional analysis review: Dimensional homogeneity | Jan 08, 2025     | Jan 08, 2025         |  |  
+| Dimensional analysis review - Part 1: Dimensions and units | Jan 08, 2025     | Jan 08, 2025         |              |  
+| Dimensional analysis review - Part 2: Dimensional homogeneity | Jan 08, 2025     | Jan 08, 2025         |  |  
 
 ### Grading
 - Full Credit for all exit tickets submitted on time, participation questions fully answered, and participation log matches Canvas records
