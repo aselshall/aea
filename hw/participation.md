@@ -1,7 +1,7 @@
 ## [Participation Log](https://aselshall.github.io/aea/hw/participation)
 
 ### Overview
-A major part of your participation grade is based on weekly video exit tickets. Each module includes an exit ticket discussion post. At the end of each module, submit your participation log by **following these instructions**.  
+A major part of your participation grade is based on weekly video exit tickets, which will keep you connected with your classmates and the instructor. Each module includes an exit ticket discussion post. At the end of each module, submit your participation log by **following these instructions**.  
 
 ### Objectives:
 The objectives of this participation log are to promote:
