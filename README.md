@@ -68,11 +68,11 @@ This course is designed for students in construction management, environmental e
 #### 1) Dimensional Analysis – 2 Weeks
 **Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (4 contact hours)
 
-- **Review of dimensional analysis**:
+- **1.1 Review of dimensional analysis**:
   - Dimensions and units (Homework 1)
   - Dimensional homogeneity  (Homework 1)
 
-- **Pi theorem**:
+- **1.2 Pi theorem**:
   - Physical models, similarity, and Pi theorem (Homework 2)
   - Pi theorem for dimensional analysis (Homework 2)
   - Pi theorem, scaling laws and physical modeling (Homework 2)
@@ -80,63 +80,64 @@ This course is designed for students in construction management, environmental e
 #### 2) Differential Calculus – 4 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (10 contact hours) 
 
-- **Fundamentals of derivatives**:
+- **2.1 Fundamentals of derivatives**:
   - Fundamental theorem of calculus: Basic principles connecting differentiation and integration, and conservation laws (Homework 3)
   - Derivative Rules: Limit of a function and Newton’s quotient, power rule, product rule, quotient rule, chain rule (Homework 3)
   - Derivative of special functions: Exponential, log, and trigonometric functions (Homework 3)
 
-- **Derivative tests**:
+- **2.2 Derivative tests**:
   - Singular points ans critical points: Derivative-based optimization, singular points critical points, and derivative tests (Homework 4)
   - Optimization: Basic problems of derivative-based optimization (Homework 4)
   - Engineering applications: Optimization methods for groundwater remediation and model calibration (Homework 4)
     
-- **Multivariable derivatives**:
+- **2.3 Multivariable derivatives**:
   -  Parametric equations: Derivatives of multivariable systems and parametric equations (Homework 5)
   -  Partial derivatives: Total derivatives and partial derivatives (Homework 5)
   -  Implicit differentiation: Implicit differentiation for problem solving (Homework 5)
 
-- **Vector calculus**:
+- **2.4 Vector calculus**:
   - Gradient: Basic concepts and applications (Homework 6)
   - Divergence: Basic concepts and applications (Homework 6)
   - Curl: Basic concepts and applications (Homework 6)
 
-- **Taylor series**:
+- **2.5 Taylor series**:
   - Series expansion for function approximation: Taylor series and Maclaurin series (Homework 6)
 
 #### 3) Integral Calculus – 2 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (5 contact hours) 
 
-- **Fundamentals of integrals**:
+- **3.1 Fundamentals of integrals**:
   - Integral of a function:  Indefinite and definite integrals (Homework 7)
   - Integrals of special functions: Exponential, log, and trigonometric functions (Homework 7)
   - Elementary integration operations: Separation of terms and integration by parts (Homework 7)
-  - Higher order integration: Double integration, and moments of a function (Homework 8)
+  - Higher order integration: Double integration, and moments of a function (Homework 7)
+  - Engineering applications: Bayesian model evidence and model selection (advanced topic)
 
-- **Integral functions**:
+- **3.2 Integral functions**:
   - Infinite Series Solutions: Exponential function, error function, gamma function and Euler constant with engineering applications (Homework 8)
 
 #### 4) Differential Equations – 2 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (5 contact hours) 
 
-- **Fundamentals of differential equations**: 
-  - Basic terms: Order, linearity, and homogeneity of ordinary and partial differential equations includig (Homework 9)
+- **4.1 Fundamentals of differential equations**: 
+  - Basic terms: Order, linearity, and homogeneity of ordinary and partial differential equations (Homework 9)
   - Laws of Conservation: Conservation of mass, energy and momentum (Homework 9)
-  - Analytical solutions: Separation of variables and integrating factor - optional topic (Homework 9)
+  - Analytical solutions: Separation of variables and integrating factor (Homework 9)
 
-- **Applications of differential equations**: 
-  - Engineering applications: Groundwater flow equation with analytical solution (Homework 10)
+- **4.2 Applications of differential equations**: 
+  - Engineering applications: Groundwater flow equation with analytical solutions (Homework 10)
   - Predator-prey model: A critical thinking exercise (Homework 10)
 
 #### 5) Computer Simulation and Modeling – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations (7.5 contact hours)
 
-- **Mathematical modeling for egineering**:
+- **5.1 Mathematical modeling for egineering**:
   - Basics of formulating mathematical models from physical phenomena (Homework 11)
 
-- **Numerical solutions of differential equations**:
-  - Techniques for solving ordinary and partial differential equations numerically (Homework 12)
+- **5.2 Numerical solutions of differential equations**:
+  - Techniques for solving differential equations numerically (Homework 12)
 
-- **Engineering applications**:
+- **5.3 Engineering applications**:
   - Critical-thinking exercise: Formulating and solving the mathematical model for contaminant transport (Homework 13)
   - Practical applications: Transport modeling of PFAS emerging contaminants (Homework 13) 
 
