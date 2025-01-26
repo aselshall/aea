@@ -53,7 +53,7 @@ These topics and number of assignments are tentative and subject to change based
 | 13   | 6-Apr - 12-Apr   | Computer simulation and modeling: Numerical solutions          | Homework 12 |
 | 14   | 13-Apr - 19-Apr  | Computer simulation and modeling: Engineering applications     | Homework 13 |
 | 15   | 20-Apr - 26-Apr  | Linear algebra: Solving systems of linear equations            | Homework 14 |
-| 16   | 20-Apr - 26-Apr  | Linear algebra: Solving systems of linear equations            | Homework 15 |
+| 16   | 20-Apr - 26-Apr  | Linear algebra: Applications            | Homework 15 |
 | 17   | 30-Apr           | In-class comprehensive final exam                              | Final exam  |
 
 ## Topics
@@ -144,12 +144,12 @@ This course is designed for students in construction management, environmental e
 #### 6) Linear Algebra – 2 Weeks 
 **Learning Objectives**: Introduction to matrix and vector operations for systems analysis (5 contact hours)
 
-- **Systems of linear equations**:
+- **6.1 Systems of linear equations**:
   - Introduction to matrices, determinants, and operations (Homework 14)
   - Solving systems of linear equations (Homework 14)
   - Critical-thinking exercise: Mass balance of a system of reactors (Homework 14) 
 
-- **Engineering applications**:
+- **6.2 Engineering applications**:
   - Practical applications of linear algebra in hydrology (Homework 15)
   - Practical applications of linear algebra in aquatic chemistry (Homework 15)
 
