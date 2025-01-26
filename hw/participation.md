@@ -62,7 +62,7 @@ After each video, reflect and submit your exit ticket by responding to participa
 | 2. Differential Calculus| 11      | Vector Calculus - Part 2: Divergence                                                 |
 | 2. Differential Calculus| 12      | Vector Calculus - Part 3: Curl                                                       |
 | 2. Differential Calculus| 13      | Taylor Series: Series Expansion and Function Approximation                  |
-| 3. Integral Calculus    | 1       | Fundamentals of Integrals - Part 1: Integration Rules and Integral of Special Functions|
+| 3. Integral Calculus    | 1       | Fundamentals of Integrals - Part 1: Integration Rules and Integrals of Special Functions|
 | 3. Integral Calculus    | 2       | Fundamentals of Integrals - Part 2: Elementary Integration Operations                |
 | 3. Integral Calculus    | 3       | Fundamentals of Integrals - Part 3: Higher Order Integration                         |
 | 3. Integral Calculus    | 4       | Fundamentals of Integrals - Part 4: Engineering Applications                        |
