@@ -131,7 +131,7 @@ This course is designed for students in construction management, environmental e
 #### 5) Computer Simulation and Modeling – 3 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations (7.5 contact hours)
 
-- **5.1 Mathematical modeling for egineering**:
+- **5.1 Mathematical modeling for engineering**:
   - Basics of formulating mathematical models from physical phenomena (Homework 11)
 
 - **5.2 Numerical solutions of differential equations**:
