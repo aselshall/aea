@@ -38,9 +38,9 @@ After each video, reflect and submit your exit ticket by responding to participa
 - No credit for missed exit tickets or participation Log
 
 
-### Videos (tentative)
+### Videos
+These are the videos the require exit tickects. Modules 0 to 6 are required and modules 7 and 8 are elective. You need to complete all the required modules and one elective module of your choice.  
 
-  
 | Module                 | Video # | Video Title                                                                  |
 |------------------------|---------|------------------------------------------------------------------------------|
 | 0. Introduction         | 1       | Advanced Engineering Analysis: Overview of course structure and goals       |
@@ -72,4 +72,17 @@ After each video, reflect and submit your exit ticket by responding to participa
 | 4. Differential Equations| 3      | Fundamentals of Differential Equations - Part 3: Analytical Solutions                |
 | 4. Differential Equations| 4      | Applications of Differential Equations - Part 1: Engineering Applications            |
 | 4. Differential Equations| 5      | Applications of Differential Equations - Part 2: Predator Prey Model                 |
-
+| 5. Modeling and Simulation| 1      | Introduction to Physics-based Modeling: Mathematical Model                 |
+| 5. Modeling and Simulation| 2      | Introduction to Physics-based Modeling: Analytical and Numerical Solutions                 |
+| 5. Modeling and Simulation| 3      | Introduction to Physics-based Modeling: Modeling of PFAS Emerging Contaminants                 |
+| 5. Modeling and Simulation| 4      | Fundamentals of Physics-based Modeling: Boundary Conditions                 |
+| 5. Modeling and Simulation| 5      | Fundamentals of Physics-based Modeling: Finite Difference Method                 |
+| 5. Modeling and Simulation| 6     | Fundamentals of Physics-based Modeling: Inverse Modeling                 |
+| 6. Linear Algebra | 1     | Introduction to Linear Algebra: Review of Matrix Operations                 |
+| 6. Linear Algebra | 2     | Introduction to Linear Algebra: Solving Linear Equations                 |
+| 6. Linear Algebra | 3     | Introduction to Linear Algebra: Distributed and Lumped Models                 |
+| 7. Monte Carlo Simulation | 1     | Monte Carlo Simulation for Cost Estimation: Probabilistic Estimation                 |
+| 7. Monte Carlo Simulation  | 2     | Monte Carlo Simulation for Cost Estimation: Application                 |
+| 8. Regression Analysis | 1     | Linear Regression: Model complexity and model selection                 |
+| 8. Regression Analysis | 2     | Linear Regression: Least squared method                 |
+| 8. Regression Analysis | 3     | Linear Regression: Is the Earth warming?                 |
