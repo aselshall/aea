@@ -64,8 +64,8 @@ Each module in the course supports at least one of these CLOs.
 |----------|-----------|----------------|----------------------------|-------------------------|-----------|
 | CLO 1 - Differentiation and Integration | Module 2, Module 3 | HW3, HW4, HW5, HW6, HW7, HW8 | Lecture slides, videos, Excel sheets, Python codes | Worked examples, problem-solving tutorials, practical applications | Excel, Python |
 | CLO 2 - Optimization Techniques | Module 2, Module 8 | HW4, HW13, HW12, HW14 | Lecture slides, videos, Excel sheets, Python codes | Worked examples, problem-solving tutorial, practical applications, Python simulations | Excel, Python |
-| CLO 3 - Differential Equations |  Module 2, Module 3, Module 4 | HW2, HW9, HW10, HW11, HW12, HW14 | Lecture slides, videos, Excel sheets, Python codes | Worked examples, problem-solving tutorial, practical applications, Python simulations | Excel, Python |
-| CLO 4 - Computer Simulation & Modeling | Module 5, Module 7, Module 8 | HW11, HW12, HW13, HW14 | Lecture slides, videos, Excel sheets, Python codes |Worked examples, problem-solving tutorial, practical applications, modeling exercises | Excel, Python |
+| CLO 3 - Differential Equations |  Module 2, Module 3, Module 4 | HW2, HW9, HW10, HW11, HW12, HW14 | Lecture slides, videos, Excel sheets, Python codes | Worked examples, problem-solving tutorials, practical applications, Python simulations | Excel, Python |
+| CLO 4 - Computer Simulation & Modeling | Module 5, Module 7, Module 8 | HW11, HW12, HW13, HW14 | Lecture slides, videos, Excel sheets, Python codes |Worked examples, problem-solving tutorials, practical applications, modeling exercises | Excel, Python |
 | CLO 5 - Linear Algebra | Module 6 | HW13, HW14 | Lecture slides, videos, Excel sheets, Python codes | Worked examples, problem-solving tutorial, practical applications | Excel, Python |
 
 
