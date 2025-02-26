@@ -1,0 +1,71 @@
+## [Course map](https://aselshall.githib.io/aea/course-map)
+
+### Course Learning Objectives (CLOs) Mapping
+At the completion of the course, students will be able to:
+1. Perform differentiation and integration using analytical and numerical methods
+2. Apply optimization techniques in engineering problem-solving
+3. Apply ordinary differential equations and partial differentiation in engineering problem-solving
+4. Understand and apply basic concepts of computer simulation and modeling to analyze engineering systems
+5. Use linear algebra and operations involving matrices to solve simultaneous equations
+
+Each module in the course supports at least one of these CLOs.
+
+### Modules 
+
+#### Module 0: Course Introduction
+**Objective:** Introduce foundational principles and engineering problem-solving approaches
+- CLOs Supported: (None directly, but provides course context)
+- Assessment: Homework 1  and exit ticket
+
+#### Module 1: Dimensional Analysis (2 Weeks)
+**Objective:** Build foundational engineering problem-solving skills using dimensional analysis
+- CLOs Supported: CLO 4 (Modeling)  
+- Assessments: Homework 1, Homework 2 and Exit tickets 
+
+#### Module 2: Differential Calculus (4 Weeks)
+**Objective:** Build essential calculus skills for FE exam and engineering applications  
+- CLOs Supported: CLO 1 (Differentiation and Integration), CLO 2 (Optimization), CLO 3 (Differential Equations)
+- Assessments: Homework 3, Homework 4, Homework 5, Homework 6, and Exit tickets
+
+#### Module 3: Integral Calculus (2 Weeks)
+**Objective:** Strengthen integration skills and applications in engineering 
+- CLOs Supported: CLO 1 (Differentiation and Integration), CLO 3 (Differential Equations)
+- Assessments: Homework 7, Homework 8, and Exit tickets
+
+#### Module 4: Differential Equations (2 Weeks)
+**Objective:** Introduce ordinary and partial differential equations for engineering applications  
+- CLOs Supported: CLO 3 (Differential Equations) 
+- Assessments: Homework 9, Homework 10, and Exit tickets  
+
+#### Module 5: Computer Simulation and Modeling (2 Weeks)
+**Objective:** Introduce numerical modeling techniques for engineering  
+- CLOs Supported: CLO 2 (Optimization), CLO 3 (Differential Equations), CLO 4 (Computer Simulation and Modeling)  
+- Assessments: Homework 11, Homework 12  
+
+#### **Module 6: Linear Algebra (1 Week)**
+**Objective:** Introduce matrix operations and their applications in engineering  
+- CLOs Supported: CLO 5 (Linear Algebra)  
+- Assessments: Homework 13  
+
+#### **Module 7: Monte Carlo Simulation (Elective)**
+**Objective:** Introduce probabilistic modeling for engineering decision-making
+- CLOs Supported: CLO 4 (Computer Simulation and Modeling)
+- Assessments: Homework 14  
+
+#### **Module 8: Linear Regression (Elective)**
+**Objective:** Introduce statistical regression techniques in engineering analysis  
+- CLOs Supported: CLO 2 (Optimization), CLO 4 (Computer Simulation and Modeling)
+- Assessments: Homework 14  
+
+
+### **Course Alignment Table**
+
+| **CLOs** | **Module** | **Assessments** | **Instructional Materials** | **Learning Activities** | **Tools** |
+|----------|-----------|----------------|----------------------------|-------------------------|-----------|
+| CLO 1 - Differentiation and Integration | Module 2, Module 3 | HW3, HW4, HW5, HW6, HW7, HW8 | Lecture slides, videos, Excel sheets, Python codes | Worked examples, problem-solving tutorials, practical applications | Excel, Python |
+| CLO 2 - Optimization Techniques | Module 2, Module 8 | HW4, HW13, HW12, HW14 | Lecture slides, videos, Excel sheets, Python codes | Worked examples, problem-solving tutorial, practical applications, Python simulations | Excel, Python |
+| CLO 3 - Differential Equations |  Module 2, Module 3, Module 4 | HW2, HW9, HW10, HW11, HW12, HW14 | Lecture slides, videos, Excel sheets, Python codes | Worked examples, problem-solving tutorial, practical applications, Python simulations | Excel, Python |
+| CLO 4 - Computer Simulation & Modeling | Module 5, Module 7, Module 8 | HW11, HW12, HW13, HW14 | Lecture slides, videos, Excel sheets, Python codes |Worked examples, problem-solving tutorial, practical applications, modeling exercises | Excel, Python |
+| CLO 5 - Linear Algebra | Module 6 | HW13, HW14 | Lecture slides, videos, Excel sheets, Python codes | Worked examples, problem-solving tutorial, practical applications | Excel, Python |
+
+
