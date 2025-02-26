@@ -63,11 +63,14 @@ Students have to select one of the elective modules.
 
 Each module includes an exit ticket discussion post as part of the participation grade, helping students stay engaged with the course and their peers.  Exit tickets are brief, end-of-lesson feedback designed to quickly gauge student understanding, questions, provide instructors with immediate feedback, and start discussion. At the end of each module, students are required to submit a participation log, which tracks their engagement with course materials ensuring active learning.
 
-### 4. Evaluation 
+### 4. Assessment
+Assessment in this course utilizes weekly homework assignments designed to reinforce learning objectives across all modules, ranging from foundational concepts in dimensional analysis and calculus to practical applications in computer simulation and statistical modeling. Critical thinking exercises and optional Excel tutorials that mirror the homework assignments are also incorporated to promote deeper engagement and skill development.
+
+### 5. Evaluation 
 
 The Feedback and Learning Assessment Survey is conducted after each module to evaluate student learning, assess the difficulty and pacing of the content, and gather feedback for course improvements. This survey encourages self-reflection and helps the instructor refine instructional materials, ensuring a well-balanced and engaging learning experience.
 
-### 5. Course Alignment Table
+### 6. Course Alignment Table
 
 | **CLOs** | **Module** | **Assessments** | **Instructional Materials** | **Learning Activities** | **Tools** |
 |----------|-----------|----------------|----------------------------|-------------------------|-----------|
