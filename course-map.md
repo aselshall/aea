@@ -1,6 +1,6 @@
 ## [Course map](https://aselshall.github.io/aea/course-map)
 
-### Course Learning Objectives (CLOs) Mapping
+### 1. Course Learning Objectives (CLOs) Mapping
 At the completion of the course, students will be able to:
 1. Perform differentiation and integration using analytical and numerical methods
 2. Apply optimization techniques in engineering problem-solving
@@ -10,7 +10,7 @@ At the completion of the course, students will be able to:
 
 Each module in the course supports at least one of these CLOs.
 
-### Modules 
+### 2. Modules 
 
 #### Module 0: Course Introduction
 **Objective:** Introduce foundational principles and engineering problem-solving approaches
@@ -59,15 +59,15 @@ Each module in the course supports at least one of these CLOs.
 
 Students have to select one of the elective modules.
 
-### Participation
+### 3. Participation
 
 Each module includes an exit ticket discussion post as part of the participation grade, helping students stay engaged with the course and their peers.  Exit tickets are brief, end-of-lesson feedback designed to quickly gauge student understanding, questions, provide instructors with immediate feedback, and start discussion. At the end of each module, students are required to submit a participation log, which tracks their engagement with course materials ensuring active learning.
 
-### Evaluation 
+### 4. Evaluation 
 
 The Feedback and Learning Assessment Survey is conducted after each module to evaluate student learning, assess the difficulty and pacing of the content, and gather feedback for course improvements. This survey encourages self-reflection and helps the instructor refine instructional materials, ensuring a well-balanced and engaging learning experience.
 
-### Course Alignment Table
+### 5. Course Alignment Table
 
 | **CLOs** | **Module** | **Assessments** | **Instructional Materials** | **Learning Activities** | **Tools** |
 |----------|-----------|----------------|----------------------------|-------------------------|-----------|
