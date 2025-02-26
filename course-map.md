@@ -47,12 +47,12 @@ Objective: Introduce matrix operations and their applications in engineering
 - CLOs Supported: CLO 5 (Linear Algebra)  
 - Assessments: Homework 13, Exit tickets    
 
-#### **Module 7: Monte Carlo Simulation (Elective)**
+#### **Module 7: Monte Carlo Simulation (1 Week, Elective)**
 Objective: Introduce probabilistic modeling for engineering decision-making
 - CLOs Supported: CLO 4 (Computer Simulation and Modeling)
 - Assessments: Homework 14, Exit tickets    
 
-#### **Module 8: Linear Regression (Elective)**
+#### **Module 8: Linear Regression (1 Week, Elective)**
 Objective: Introduce statistical regression techniques in engineering analysis  
 - CLOs Supported: CLO 2 (Optimization), CLO 4 (Computer Simulation and Modeling)
 - Assessments: Homework 14, Exit tickets    
