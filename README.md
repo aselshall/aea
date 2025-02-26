@@ -46,27 +46,27 @@ These topics and number of assignments are tentative and subject to change based
 | 5    | 3-Feb - 9-Feb  | Differential calculus: Multivariable systems                   | Homework 5  |
 | 6    | 10-Feb - 16-Feb   | Differential calculus: Vector calculus                         | Homework 6  |
 | 7    | 17-Feb - 23-Feb   | Integral calculus: Review                                      | Homework 7  |
-| 8    | 24-Feb - 1-Mar   | Integral calculus: Integral function                           | Homework 8  |
-| 9    | 2-Mar - 8-Mar    | Spring break (no classes)                                      |             |
-| 10   | 16-Mar - 22-Mar  | Differential equations: Laws of conservation                   | Homework 9  |
-| 11   | 23-Mar - 29-Mar  | Differential equations: Engineering applications               | Homework 10 |
-| 12   | 30-Mar - 5-Apr   | Computer simulation and modeling: Mathematical models          | Homework 11 |
-| 13   | 6-Apr - 12-Apr   | Computer simulation and modeling: Numerical solutions          | Homework 12 |
-| 14   | 13-Apr - 19-Apr  | Computer simulation and modeling: Engineering applications     | Homework 13 |
-| 15   | 20-Apr - 26-Apr  | Linear algebra: Solving systems of linear equations            | Homework 14 |
-| 16   | 20-Apr - 26-Apr  | Linear algebra: Applications            | Homework 15 |
+| 8    | 24-Feb - 2-Mar   | Integral calculus: Integral function                           | Homework 8  |
+| 9    | 3-Mar - 9-Mar    | Spring break (no classes)                                      |             |
+| 10   | 10-Mar - 16-Mar  | Differential equations: Laws of conservation                   | Homework 9  |
+| 11   | 17-Mar - 23-Mar  | Differential equations: Engineering applications               | Homework 10 |
+| 12   | 24-Mar - 30-Mar   | Computer simulation and modeling: Mathematical models          | Homework 11 |
+| 13   | 31-Mar - 6-Apr   | Computer simulation and modeling: Numerical solutions          | Homework 12 |
+| 14   | 7-Apr - 13-Apr  | Linear algebra: Solving systems of linear equations            | Homework 13 |
+| 15   | 14-Apr - 27-Apr  | Monte Carlo Simulation: Cost Estimation   | Homework 14 |
+|      | 14-Apr - 27-Apr  | Regression analysis : Linear regession            | Homework 14 |
 | 17   | 30-Apr           | In-class comprehensive final exam                              | Final exam  |
 
 ## Topics
-This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. These topics are tentative and subject to change based on class progress. 
+This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Modules 0 to 6 are required. Module 7 and 8 are elective, and you only need to complete one of them.
 
-#### 0) Course Introduction
+#### Module 0) Course Introduction
 **Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (1 contact hours)
 
 - **Introduction to advanced engineering analysis**:
   - Overview of course structure and goals (Homework 1)
 
-#### 1) Dimensional Analysis – 2 Weeks
+#### Moudle 1) Dimensional Analysis – 2 Weeks
 **Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (4 contact hours)
 
 - **1.1 Review of dimensional analysis**:
@@ -78,7 +78,7 @@ This course is designed for students in construction management, environmental e
   - Pi theorem for dimensional analysis (Homework 2)
   - Pi theorem, scaling laws and physical modeling (Homework 2)
 
-#### 2) Differential Calculus – 4 Weeks
+#### Module 2) Differential Calculus – 4 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (10 contact hours) 
 
 - **2.1 Fundamentals of derivatives**:
@@ -104,7 +104,7 @@ This course is designed for students in construction management, environmental e
 - **2.5 Taylor series**:
   - Series expansion for function approximation: Taylor series and Maclaurin series (Homework 6)
 
-#### 3) Integral Calculus – 2 Weeks
+#### Module 3) Integral Calculus – 2 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (5 contact hours) 
 
 - **3.1 Fundamentals of integrals**:
@@ -117,7 +117,7 @@ This course is designed for students in construction management, environmental e
 - **3.2 Integral functions**:
   - Infinite Series Solutions: Exponential function, error function, gamma function and Euler constant with engineering applications (Homework 8)
 
-#### 4) Differential Equations – 2 Weeks
+#### Module 4) Differential Equations – 2 Weeks
 **Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (5 contact hours) 
 
 - **4.1 Fundamentals of differential equations**: 
@@ -129,34 +129,33 @@ This course is designed for students in construction management, environmental e
   - Engineering applications: Groundwater flow equation with analytical solutions (Homework 10)
   - Predator-prey model: A critical thinking exercise (Homework 10)
 
-#### 5) Computer Simulation and Modeling – 3 Weeks
+#### Module 5) Computer Simulation and Modeling – 2 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations (7.5 contact hours)
 
 - **5.1 Mathematical modeling for engineering**:
   - Basics of formulating mathematical models from physical phenomena (Homework 11)
-
 - **5.2 Numerical solutions of differential equations**:
   - Techniques for solving differential equations numerically (Homework 12)
+  - Critical-thinking exercise: Formulating and solving the mathematical model for contaminant transport (Homework 12)
+  - Practical applications: Transport modeling of PFAS emerging contaminants (Homework 12) 
 
-- **5.3 Engineering applications**:
-  - Critical-thinking exercise: Formulating and solving the mathematical model for contaminant transport (Homework 13)
-  - Practical applications: Transport modeling of PFAS emerging contaminants (Homework 13) 
-
-#### 6) Linear Algebra – 2 Weeks 
-**Learning Objectives**: Introduction to matrix and vector operations for systems analysis (5 contact hours)
+#### Module 6) Linear Algebra – 1 Weeks 
+**Learning Objectives**: Introduction to matrix and vector operations for systems analysis (2.5 contact hours)
 
 - **6.1 Systems of linear equations**:
-  - Introduction to matrices, determinants, and operations (Homework 14)
-  - Solving systems of linear equations (Homework 14)
-  - Critical-thinking exercise: Mass balance of a system of reactors (Homework 14) 
+  - Introduction to matrices, determinants, and operations (Homework 13)
+  - Solving systems of linear equations (Homework 13)
+  - Critical-thinking exercise: Mass balance of a system of reactors (Homework 13) 
+  - Practical applications of linear algebra in hydrology (Homework 13)
+  - Practical applications of linear algebra in aquatic chemistry (Homework 13)
 
-- **6.2 Engineering applications**:
-  - Practical applications of linear algebra in hydrology (Homework 15)
-  - Practical applications of linear algebra in aquatic chemistry (Homework 15)
-
+#### Module 7) Monte Carlo Simulation – 1 Week 
+ - To be completed
+#### Module 8) Linear Regression – 1 Week
+- To be copleted
+- 
 ## Course Materials
 Slides and videos will be available on Canvas. Key references used in preparing course materials include:
-
 - *Civil Engineering Reference Manual for the PE Exam*, 14th Ed. by Michael R. Lindeburg
 - *Fluid Mechanics Fundamentals and Applications*, 3rd Ed. by Yunus Cengel and John Cimbala
 - *Numerical Methods for Engineers*, 8th Ed. by Steven Chapra and Raymond Canale
