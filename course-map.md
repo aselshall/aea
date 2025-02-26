@@ -14,12 +14,12 @@ Each module in the course supports at least one of these CLOs.
 
 #### Module 0: Course Introduction
 **Objective:** Introduce foundational principles and engineering problem-solving approaches
-- CLOs Supported: (None directly, but provides course context)
+- CLOs Supported: (provides course context, introduce problem-solving approaches used throughout the course, introduce the modeling (CLO 4) 
 - Assessment: Homework 1, exit ticket
 
 #### Module 1: Dimensional Analysis (2 Weeks)
 **Objective:** Build foundational engineering problem-solving skills using dimensional analysis
-- CLOs Supported: CLO 4 (Modeling)  
+- CLOs Supported: CLO 4 (Modeling- Physical models)  
 - Assessments: Homework 1, Homework 2, Exit tickets 
 
 #### Module 2: Differential Calculus (4 Weeks)
@@ -57,8 +57,17 @@ Each module in the course supports at least one of these CLOs.
 - CLOs Supported: CLO 2 (Optimization), CLO 4 (Computer Simulation and Modeling)
 - Assessments: Homework 14, Exit tickets    
 
+Students have to select one of the elective modules.
 
-### **Course Alignment Table**
+### Participation
+
+Each module includes an exit ticket discussion post as part of the participation grade, helping students stay engaged with the course and their peers.  Exit tickets are brief, end-of-lesson feedback designed to quickly gauge student understanding, questions, provide instructors with immediate feedback, and start discussion. At the end of each module, students are required to submit a participation log, which tracks their engagement with course materials ensuring active learning.
+
+### Evaluation 
+
+The Feedback and Learning Assessment Survey is conducted after each module to evaluate student learning, assess the difficulty and pacing of the content, and gather feedback for course improvements. This survey encourages self-reflection and helps the instructor refine instructional materials, ensuring a well-balanced and engaging learning experience.
+
+### Course Alignment Table
 
 | **CLOs** | **Module** | **Assessments** | **Instructional Materials** | **Learning Activities** | **Tools** |
 |----------|-----------|----------------|----------------------------|-------------------------|-----------|
@@ -67,5 +76,4 @@ Each module in the course supports at least one of these CLOs.
 | CLO 3 - Differential Equations |  Module 2, Module 3, Module 4 | HW2, HW9, HW10, HW11, HW12, HW14 | Lecture slides, videos, Excel sheets, Python codes | Worked examples, problem-solving tutorials, practical applications, Python simulations | Excel, Python |
 | CLO 4 - Computer Simulation & Modeling | Module 5, Module 7, Module 8 | HW11, HW12, HW13, HW14 | Lecture slides, videos, Excel sheets, Python codes |Worked examples, problem-solving tutorials, practical applications, modeling exercises | Excel, Python |
 | CLO 5 - Linear Algebra | Module 6 | HW13, HW14 | Lecture slides, videos, Excel sheets, Python codes | Worked examples, problem-solving tutorial, practical applications | Excel, Python |
-
 
