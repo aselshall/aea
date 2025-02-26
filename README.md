@@ -53,9 +53,11 @@ These topics and number of assignments are tentative and subject to change based
 | 12   | 24-Mar - 30-Mar   | Computer simulation and modeling: Mathematical models          | Homework 11 |
 | 13   | 31-Mar - 6-Apr   | Computer simulation and modeling: Numerical solutions          | Homework 12 |
 | 14   | 7-Apr - 13-Apr  | Linear algebra: Solving systems of linear equations            | Homework 13 |
-| 15   | 14-Apr - 27-Apr  | Monte Carlo Simulation: Cost Estimation   | Homework 14 |
-|      | 14-Apr - 27-Apr  | Regression analysis : Linear regession            | Homework 14 |
+| 15   | 14-Apr - 27-Apr  | Monte Carlo Simulation: Cost Estimation - Elective*  | Homework 14 |
+|      | 14-Apr - 27-Apr  | Regression analysis : Linear regession - Elective*           | Homework 14 |
 | 17   | 30-Apr           | In-class comprehensive final exam                              | Final exam  |
+
+* You are required to do one of the two elective topics.
 
 ## Topics
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Modules 0 to 6 are required. Module 7 and 8 are elective, and you only need to complete one of them.
