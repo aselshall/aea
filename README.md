@@ -53,11 +53,11 @@ These topics and number of assignments are tentative and subject to change based
 | 12   | 24-Mar - 30-Mar   | Computer simulation and modeling: Mathematical models          | Homework 11 |
 | 13   | 31-Mar - 6-Apr   | Computer simulation and modeling: Numerical solutions          | Homework 12 |
 | 14   | 7-Apr - 13-Apr  | Linear algebra: Solving systems of linear equations            | Homework 13 |
-| 15   | 14-Apr - 27-Apr  | Monte Carlo Simulation: Cost Estimation - Elective*  | Homework 14 |
-|      | 14-Apr - 27-Apr  | Regression analysis : Linear regession - Elective*           | Homework 14 |
+| 15-16   | 14-Apr - 27-Apr  | Monte Carlo Simulation: Cost Estimation - Elective<sup>1</sup>   | Homework 14 |
+| 15-16     | 14-Apr - 27-Apr  | Regression analysis : Linear regession - Elective<sup>1</sup>            | Homework 14 |
 | 17   | 30-Apr           | In-class comprehensive final exam                              | Final exam  |
 
-* You are required to do one of the two elective topics.
+<sup>1</sup> You are required to complete one of the two elective topics.
 
 ## Topics
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Modules 0 to 6 are required. Module 7 and 8 are elective, and you only need to complete one of them.
@@ -134,28 +134,36 @@ This course is designed for students in construction management, environmental e
 #### Module 5) Computer Simulation and Modeling – 2 Weeks
 **Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations (7.5 contact hours)
 
-- **5.1 Mathematical modeling for engineering**:
+- **5.1 Introduction to Physics-based Modeling**:
   - Basics of formulating mathematical models from physical phenomena (Homework 11)
-- **5.2 Numerical solutions of differential equations**:
-  - Techniques for solving differential equations numerically (Homework 12)
-  - Critical-thinking exercise: Formulating and solving the mathematical model for contaminant transport (Homework 12)
-  - Practical applications: Transport modeling of PFAS emerging contaminants (Homework 12) 
+  - Analytical and numerical solutions of mathematical model (Homework 11)
+  - Practical applications: Transport modeling of PFAS emerging contaminants (Homework 11)
 
+- **5.2 Fundamentals to Physics-based Modeling**:
+  - Boundary conditions (Homework 12)
+  - Finite difference method with Excel Exercise (Homework 12)
+  - Inverse Modeling (Homework 12)
+  
 #### Module 6) Linear Algebra – 1 Weeks 
 **Learning Objectives**: Introduction to matrix and vector operations for systems analysis (2.5 contact hours)
 
-- **6.1 Systems of linear equations**:
-  - Introduction to matrices, determinants, and operations (Homework 13)
+- **6.1 Introduction to Linear Algebra**:
+  - Review of Matrix Operations: matrices, determinants, and operations (Homework 13)
   - Solving systems of linear equations (Homework 13)
-  - Critical-thinking exercise: Mass balance of a system of reactors (Homework 13) 
-  - Practical applications of linear algebra in hydrology (Homework 13)
-  - Practical applications of linear algebra in aquatic chemistry (Homework 13)
+  - Distributed and lumped models: Heat transport and mass balance of a system of reactors 
 
 #### Module 7) Monte Carlo Simulation – 1 Week 
- - To be completed
+**Learning Objectives**: Introduce Monte Carlo simulation with applications (2.5 contact hours)
+- Introduction to Monte Carlo simulation and probabilistic estimation
+- Critical thinking exercise: Probabilistic estimate of farm profit with uncertainty quantification and sensitivity analysis
+- Excel tutorial: Probabilistic estimate of farm profit with uncertainty quantification and sensitivity analysis (extra, optional) 
+
 #### Module 8) Linear Regression – 1 Week
-- To be copleted
-- 
+**Learning Objectives**: Introduction to linear regression with applications (2.5 contact hours)
+- Model complexity and model selection
+- Least squared method
+- Critical thinking exercise: Is the Earth warming?
+
 ## Course Materials
 Slides and videos will be available on Canvas. Key references used in preparing course materials include:
 - *Civil Engineering Reference Manual for the PE Exam*, 14th Ed. by Michael R. Lindeburg
