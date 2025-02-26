@@ -1,4 +1,4 @@
-## [Course map](https://aselshall.githib.io/aea/course-map)
+## [Course map](https://aselshall.github.io/aea/course-map)
 
 ### Course Learning Objectives (CLOs) Mapping
 At the completion of the course, students will be able to:
