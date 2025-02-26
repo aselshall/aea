@@ -164,6 +164,8 @@ This course is designed for students in construction management, environmental e
 - Least squared method
 - Critical thinking exercise: Is the Earth warming?
 
+For more information, refer to [course map](https://aselshall.github.io/aea/course-map)
+  
 ## Course Materials
 Slides and videos are available on Canvas. Key references used in preparing course materials include:
 - *Civil Engineering Reference Manual for the PE Exam*, 14th Ed. by Michael R. Lindeburg
