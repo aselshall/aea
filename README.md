@@ -55,7 +55,7 @@ These topics and number of assignments are tentative and subject to change based
 | 14   | 7-Apr - 13-Apr  | Linear algebra: Solving systems of linear equations            | Homework 13 |
 | 15   | 14-Apr - 20-Apr  | Elective<sup>1</sup> - Monte Carlo Simulation: Cost Estimation    |   |
 | 15   | 14-Apr - 20-Apr  | Elective<sup>1</sup> - Regression analysis : Linear regession   |   |
-| 16   | 21-Apr - 27-Apr  | Exam review                                                    | Homework 14            |
+| 16   | 21-Apr - 27-Apr  | Exam review                                                    | [Homework 14](https://aselshall.github.io/aea/hw/hw14)            |
 | 17   | 30-Apr           | In-class comprehensive final exam                              | Final exam  |
 
 <sup>1</sup> You are required to complete one of the two elective topics.
