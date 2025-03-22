@@ -53,9 +53,9 @@ These topics and number of assignments are tentative and subject to change based
 | 12   | 24-Mar - 30-Mar   | Computer simulation and modeling: Mathematical models          | Homework 11 |
 | 13   | 31-Mar - 6-Apr   | Computer simulation and modeling: Numerical solutions          | Homework 12 |
 | 14   | 7-Apr - 13-Apr  | Linear algebra: Solving systems of linear equations            | Homework 13 |
-| 15   | 14-Apr - 20-Apr  | Monte Carlo Simulation: Cost Estimation - Elective<sup>1</sup>   | Homework 14  |
-| 15   | 14-Apr - 20-Apr  | Regression analysis : Linear regession - Elective<sup>1</sup>    | Homework 14  |
-| 16   | 21-Apr - 27-Apr  | Exam review                                                    |             |
+| 15   | 14-Apr - 20-Apr  | Monte Carlo Simulation: Cost Estimation - Elective<sup>1</sup>   |   |
+| 15   | 14-Apr - 20-Apr  | Regression analysis : Linear regession - Elective<sup>1</sup>    |   |
+| 16   | 21-Apr - 27-Apr  | Exam review                                                    | Homework 14            |
 | 17   | 30-Apr           | In-class comprehensive final exam                              | Final exam  |
 
 <sup>1</sup> You are required to complete one of the two elective topics.
