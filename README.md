@@ -64,13 +64,13 @@ These topics and number of assignments are tentative and subject to change based
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Modules 0 to 6 are required. Module 7 and 8 are elective, and you only need to complete one of them.
 
 #### Module 0 Course Introduction
-**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (1 contact hours)
+**Learning objectives**: Understand the course structure and problem-solving approaches in engineering (1 contact hours)
 
 - **Introduction to advanced engineering analysis**:
   - Overview of course structure and goals (Homework 1)
 
 #### Moudle 1 Dimensional Analysis – 2 Weeks
-**Learning objectives**: Introduce foundational principles and engineering problem-solving approaches (4 contact hours)
+**Learning objectives**: Apply dimensional analysis and Pi theorem to simplify complex engineering problems (4 contact hours)
 
 - **1.1 Review of dimensional analysis**:
   - Dimensions and units (Homework 1)
@@ -82,7 +82,7 @@ This course is designed for students in construction management, environmental e
   - Pi theorem, scaling laws and physical modeling (Homework 2)
 
 #### Module 2 Differential Calculus – 4 Weeks
-**Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (10 contact hours) 
+**Learning objectives**: Use derivatives for optimization, system analysis, and function approximation (10 contact hours) 
 
 - **2.1 Fundamentals of derivatives**:
   - Fundamental theorem of calculus: Basic principles connecting differentiation and integration, and conservation laws (Homework 3)
@@ -108,7 +108,7 @@ This course is designed for students in construction management, environmental e
   - Series expansion for function approximation: Taylor series and Maclaurin series (Homework 6)
 
 #### Module 3 Integral Calculus – 2 Weeks
-**Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (5 contact hours) 
+**Learning objectives**: Apply integration techniques to solve engineering problems involving accumulated quantities and series solutions for complex integral problems (5 contact hours) 
 
 - **3.1 Fundamentals of integrals**:
   - Integral of a function:  Indefinite and definite integrals (Homework 7)
@@ -121,7 +121,7 @@ This course is designed for students in construction management, environmental e
   - Infinite Series Solutions: Exponential function, error function, gamma function and Euler constant with engineering applications (Homework 8)
 
 #### Module 4 Differential Equations – 2 Weeks
-**Learning objectives**: Build essential calculus skills for FE exam and engineering applications accommodating varying levels of prior knowledge (5 contact hours) 
+**Learning objectives**: Solve ordinary and partial differential equations for engineering applications (5 contact hours) 
 
 - **4.1 Fundamentals of differential equations**: 
   - Basic terms: Order, linearity, and homogeneity of ordinary and partial differential equations (Homework 9)
@@ -133,7 +133,7 @@ This course is designed for students in construction management, environmental e
   - Predator-prey model: A critical thinking exercise (Homework 10)
 
 #### Module 5 Computer Simulation and Modeling – 2 Weeks
-**Learning objectives**: Introduce computational modeling for engineering problem-solving and simulations (7.5 contact hours)
+**Learning objectives**: Develop and solve mathematical models using analytical and numerical methods(5 contact hours)
 
 - **5.1 Introduction to Physics-based Modeling**:
   - Basics of formulating mathematical models from physical phenomena (Homework 11)
@@ -146,7 +146,7 @@ This course is designed for students in construction management, environmental e
   - Inverse Modeling (Homework 12)
   
 #### Module 6 Linear Algebra – 1 Weeks 
-**Learning Objectives**: Introduction to matrix and vector operations for systems analysis (2.5 contact hours)
+**Learning Objectives**: Solve systems of linear equations using matrix and vector operations to analyze engineering systems  (2.5 contact hours)
 
 - **6.1 Introduction to Linear Algebra**:
   - Review of Matrix Operations: matrices, determinants, and operations (Homework 13)
@@ -154,13 +154,17 @@ This course is designed for students in construction management, environmental e
   - Distributed and lumped models: Heat transport and mass balance of a system of reactors 
 
 #### Module 7 Monte Carlo Simulation – 1 Week 
-**Learning Objectives**: Introduce Monte Carlo simulation with applications (2.5 contact hours)
+**Learning Objectives**: Use Monte Carlo methods for uncertainty analysis (2.5 contact hours)
+
+- **7.1 Monte Carlo simulation for probabilistic cost estimation**:
 - Introduction to Monte Carlo simulation and probabilistic estimation
 - Critical thinking exercise: Probabilistic estimate of farm profit with uncertainty quantification and sensitivity analysis
 - Excel tutorial: Probabilistic estimate of farm profit with uncertainty quantification and sensitivity analysis (extra, optional) 
 
 #### Module 8 Linear Regression – 1 Week
-**Learning Objectives**: Introduction to linear regression with applications (2.5 contact hours)
+**Learning Objectives**: Apply linear regression to analyze data and evaluate model performance (2.5 contact hours)
+
+- **8.1 Linear regression**
 - Model complexity and model selection
 - Least squared method
 - Critical thinking exercise: Is the Earth warming?
