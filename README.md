@@ -86,7 +86,7 @@ This course is designed for students in construction management, environmental e
 
 - **2.1 Fundamentals of derivatives**:
   - Fundamental theorem of calculus: Basic principles connecting differentiation and integration, and conservation laws (Homework 3)
-  - Derivative Rules: Limit of a function and Newton’s quotient, power rule, product rule, quotient rule, chain rule (Homework 3)
+  - Derivative rules: Limit of a function and Newton’s quotient, power rule, product rule, quotient rule, chain rule (Homework 3)
   - Derivative of special functions: Exponential, log, and trigonometric functions (Homework 3)
 
 - **2.2 Derivative tests**:
@@ -118,14 +118,14 @@ This course is designed for students in construction management, environmental e
   - Engineering applications: Bayesian model evidence and model selection (advanced topic)
 
 - **3.2 Integral functions**:
-  - Infinite Series Solutions: Exponential function, error function, gamma function and Euler constant with engineering applications (Homework 8)
+  - Infinite series solutions: Exponential function, error function, gamma function and Euler constant with engineering applications (Homework 8)
 
 #### Module 4 Differential Equations – 2 Weeks
 **Learning objectives**: Solve ordinary and partial differential equations for engineering applications (5 contact hours) 
 
 - **4.1 Fundamentals of differential equations**: 
   - Basic terms: Order, linearity, and homogeneity of ordinary and partial differential equations (Homework 9)
-  - Laws of Conservation: Conservation of mass, energy and momentum (Homework 9)
+  - Laws of conservation: Conservation of mass, energy and momentum (Homework 9)
   - Analytical solutions: Separation of variables and integrating factor (Homework 9)
 
 - **4.2 Applications of differential equations**: 
@@ -143,13 +143,13 @@ This course is designed for students in construction management, environmental e
 - **5.2 Fundamentals to Physics-based Modeling**:
   - Boundary conditions (Homework 12)
   - Finite difference method with Excel Exercise (Homework 12)
-  - Inverse Modeling (Homework 12)
+  - Inverse modeling (Homework 12)
   
 #### Module 6 Linear Algebra – 1 Weeks 
 **Learning Objectives**: Solve systems of linear equations using matrix and vector operations to analyze engineering systems  (2.5 contact hours)
 
 - **6.1 Introduction to Linear Algebra**:
-  - Review of Matrix Operations: matrices, determinants, and operations (Homework 13)
+  - Review of matrix Operations: matrices, determinants, and operations (Homework 13)
   - Solving systems of linear equations (Homework 13)
   - Distributed and lumped models: Heat transport and mass balance of a system of reactors 
 
