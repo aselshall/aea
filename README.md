@@ -60,7 +60,7 @@ These topics and number of assignments are tentative and subject to change based
 
 <sup>1</sup> You are required to complete one of the two elective topics.
 
-## Topics and course map
+## Topics 
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Modules 0 to 6 are required. Module 7 and 8 are elective, and you only need to complete one of them.
 
 #### Module 0 Course Introduction
