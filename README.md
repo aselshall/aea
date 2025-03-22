@@ -151,15 +151,15 @@ This course is designed for students in construction management, environmental e
 - **6.1 Introduction to Linear Algebra**:
   - Review of matrix Operations: matrices, determinants, and operations (Homework 13)
   - Solving systems of linear equations (Homework 13)
-  - Distributed and lumped models: Heat transport and mass balance of a system of reactors 
+  - Distributed and lumped models: Heat transport and mass balance of a system of reactors (Homework 13)
 
 #### Module 7 Monte Carlo Simulation – 1 Week 
 **Learning Objectives**: Use Monte Carlo methods for uncertainty analysis (2.5 contact hours)
 
 - **7.1 Monte Carlo simulation for probabilistic cost estimation**:
-- Introduction to Monte Carlo simulation and probabilistic estimation
-- Critical thinking exercise: Probabilistic estimate of farm profit with uncertainty quantification and sensitivity analysis
-- Excel tutorial: Probabilistic estimate of farm profit with uncertainty quantification and sensitivity analysis (extra, optional) 
+- Introduction to Monte Carlo simulation and probabilistic estimation 
+- Critical thinking exercise: Probabilistic estimate of farm profit with uncertainty quantification and sensitivity analysis 
+- Excel tutorial: Probabilistic estimate of farm profit with uncertainty quantification and sensitivity analysis (optional) 
 
 #### Module 8 Linear Regression – 1 Week
 **Learning Objectives**: Apply linear regression to analyze data and evaluate model performance (2.5 contact hours)
