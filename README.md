@@ -143,7 +143,7 @@ This course is designed for students in construction management, environmental e
 - **5.2 Fundamentals to Physics-based Modeling**:
   - Boundary conditions (Homework 12)
   - Finite difference method with Excel exercise (Homework 12)
-  - Inverse modeling (Homework 12)
+  - Inverse modeling with Excel exercise (Homework 12)
   
 #### Module 6 Linear Algebra – 1 Weeks 
 **Learning Objectives**: Solve systems of linear equations using matrix and vector operations to analyze engineering systems  (2.5 contact hours)
