@@ -115,7 +115,7 @@ This course is designed for students in construction management, environmental e
   - Integrals of special functions: Exponential, log, and trigonometric functions (Homework 7)
   - Elementary integration operations: Separation of terms and integration by parts (Homework 7)
   - Higher order integration: Double integration, and moments of a function (Homework 7)
-  - Engineering applications: Bayesian model evidence and model selection (advanced topic)
+  - Engineering applications: Bayesian model evidence and model selection in hydrology (Homework 8)
 
 - **3.2 Integral functions**:
   - Infinite series solutions: Exponential function, error function, gamma function and Euler constant with engineering applications (Homework 8)
