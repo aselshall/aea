@@ -64,110 +64,110 @@ These topics and number of assignments are tentative and subject to change based
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Modules 0 to 6 are required. Module 7 and 8 are elective, and you only need to complete one of them.
 
 #### Module 0 Course Introduction
-**Learning objectives**: Understand the course structure and problem-solving approaches in engineering (1 contact hours)
+Learning objectives: Understand the course structure and problem-solving approaches in engineering (1 contact hours)
 
-- **Introduction to advanced engineering analysis**:
+- Introduction to advanced engineering analysis:
   - Overview of course structure and goals (Homework 1)
 
 #### Moudle 1 Dimensional Analysis – 2 Weeks
-**Learning objectives**: Apply dimensional analysis and Pi theorem to simplify complex engineering problems (4 contact hours)
+Learning objectives: Apply dimensional analysis and Pi theorem to simplify complex engineering problems (4 contact hours)
 
-- **1.1 Review of dimensional analysis**:
+- 1.1 Review of dimensional analysis:
   - Dimensions and units (Homework 1)
   - Dimensional homogeneity  (Homework 1)
 
-- **1.2 Pi theorem**:
+- 1.2 Pi theorem:
   - Physical models, similarity, and Pi theorem (Homework 2)
   - Pi theorem for dimensional analysis (Homework 2)
   - Pi theorem, scaling laws and physical modeling (Homework 2)
 
 #### Module 2 Differential Calculus – 4 Weeks
-**Learning objectives**: Use derivatives for optimization, system analysis, and function approximation (10 contact hours) 
+Learning objectives: Use derivatives for optimization, system analysis, and function approximation (10 contact hours) 
 
-- **2.1 Fundamentals of derivatives**:
+- 2.1 Fundamentals of derivatives:
   - Fundamental theorem of calculus: Basic principles connecting differentiation and integration, and conservation laws (Homework 3)
   - Derivative rules: Limit of a function and Newton’s quotient, power rule, product rule, quotient rule, chain rule (Homework 3)
   - Derivative of special functions: Exponential, log, and trigonometric functions (Homework 3)
 
-- **2.2 Derivative tests**:
+- 2.2 Derivative tests:
   - Singular points ans critical points: Derivative-based optimization, singular points critical points, and derivative tests (Homework 4)
   - Optimization: Basic problems of derivative-based optimization (Homework 4)
   - Engineering applications: Optimization methods for groundwater remediation and model calibration (Homework 4)
     
-- **2.3 Multivariable derivatives**:
+- 2.3 Multivariable derivatives:
   -  Parametric equations: Derivatives of multivariable systems and parametric equations (Homework 5)
   -  Partial derivatives: Total derivatives and partial derivatives (Homework 5)
   -  Implicit differentiation: Implicit differentiation for problem solving (Homework 5)
 
-- **2.4 Vector calculus**:
+- 2.4 Vector calculus:
   - Gradient: Basic concepts and applications (Homework 6)
   - Divergence: Basic concepts and applications (Homework 6)
   - Curl: Basic concepts and applications (Homework 6)
 
-- **2.5 Taylor series**:
+- 2.5 Taylor series:
   - Series expansion for function approximation: Taylor series and Maclaurin series (Homework 6)
 
 #### Module 3 Integral Calculus – 2 Weeks
-**Learning objectives**: Apply integration techniques to solve engineering problems involving accumulated quantities and series solutions for complex integral problems (5 contact hours) 
+Learning objectives: Apply integration techniques to solve engineering problems involving accumulated quantities and series solutions for complex integral problems (5 contact hours) 
 
-- **3.1 Fundamentals of integrals**:
+- 3.1 Fundamentals of integrals:
   - Integral of a function:  Indefinite and definite integrals (Homework 7)
   - Integrals of special functions: Exponential, log, and trigonometric functions (Homework 7)
   - Elementary integration operations: Separation of terms and integration by parts (Homework 7)
   - Higher order integration: Double integration, and moments of a function (Homework 7)
   - Engineering applications: Bayesian model evidence and model selection in hydrology (Homework 8)
 
-- **3.2 Integral functions**:
+- 3.2 Integral functions:
   - Infinite series solutions: Exponential function, error function, gamma function and Euler constant with engineering applications (Homework 8)
 
 #### Module 4 Differential Equations – 2 Weeks
-**Learning objectives**: Solve ordinary and partial differential equations for engineering applications (5 contact hours) 
+Learning objectives: Solve ordinary and partial differential equations for engineering applications (5 contact hours) 
 
-- **4.1 Fundamentals of differential equations**: 
+- 4.1 Fundamentals of differential equations: 
   - Basic terms: Order, linearity, and homogeneity of ordinary and partial differential equations (Homework 9)
   - Laws of conservation: Conservation of mass, energy and momentum (Homework 9)
   - Analytical solutions: Separation of variables and integrating factor (Homework 9)
 
-- **4.2 Applications of differential equations**: 
+- 4.2 Applications of differential equations: 
   - Engineering applications: Groundwater flow equation with analytical solutions (Homework 10)
   - Predator-prey model: A critical thinking exercise (Homework 10)
 
 #### Module 5 Computer Simulation and Modeling – 2 Weeks
-**Learning objectives**: Develop and solve mathematical models using analytical and numerical methods(5 contact hours)
+Learning objectives: Develop and solve mathematical models using analytical and numerical methods(5 contact hours)
 
-- **5.1 Introduction to Physics-based Modeling**:
+- 5.1 Introduction to Physics-based Modeling:
   - Basics of formulating mathematical models from physical phenomena (Homework 11)
   - Analytical and numerical solutions of mathematical model (Homework 11)
   - Practical applications: Transport modeling of PFAS emerging contaminants (Homework 11)
 
-- **5.2 Fundamentals to Physics-based Modeling**:
+- 5.2 Fundamentals to Physics-based Modeling:
   - Boundary conditions (Homework 12)
   - Finite difference method with Excel exercise (Homework 12)
   - Inverse modeling with Excel exercise (Homework 12)
   
 #### Module 6 Linear Algebra – 1 Weeks 
-**Learning Objectives**: Solve systems of linear equations using matrix and vector operations to analyze engineering systems  (2.5 contact hours)
+Learning Objectives: Solve systems of linear equations using matrix and vector operations to analyze engineering systems  (2.5 contact hours)
 
-- **6.1 Introduction to Linear Algebra**:
+- 6.1 Introduction to Linear Algebra:
   - Review of matrix Operations: matrices, determinants, and operations (Homework 13)
   - Solving systems of linear equations (Homework 13)
   - Distributed and lumped models: Heat transport and mass balance of a system of reactors (Homework 13)
 
 #### Module 7 Monte Carlo Simulation – 1 Week 
-**Learning Objectives**: Use Monte Carlo methods for uncertainty analysis (2.5 contact hours)
+Learning Objectives: Use Monte Carlo methods for uncertainty analysis (2.5 contact hours)
 
-- **7.1 Monte Carlo simulation for probabilistic cost estimation**:
-- Introduction to Monte Carlo simulation and probabilistic estimation 
-- Critical thinking exercise: Probabilistic estimate of farm profit with uncertainty quantification and sensitivity analysis 
-- Excel tutorial: Probabilistic estimate of farm profit with uncertainty quantification and sensitivity analysis (optional) 
+- 7.1 Monte Carlo simulation for probabilistic cost estimation:
+  - Introduction to Monte Carlo simulation and probabilistic estimation 
+  - Critical thinking exercise: Probabilistic estimate of farm profit with uncertainty quantification and sensitivity analysis 
+  - Excel tutorial: Probabilistic estimate of farm profit with uncertainty quantification and sensitivity analysis (optional) 
 
 #### Module 8 Linear Regression – 1 Week
-**Learning Objectives**: Apply linear regression to analyze data and evaluate model performance (2.5 contact hours)
+Learning Objectives: Apply linear regression to analyze data and evaluate model performance (2.5 contact hours)
 
-- **8.1 Linear regression**
-- Model complexity and model selection
-- Least squared method
-- Critical thinking exercise: Is the Earth warming?
+- 8.1 Linear regression
+  - Model complexity and model selection
+  - Least squared method
+  - Critical thinking exercise: Is the Earth warming?
 
 For more information, refer to [course map](https://aselshall.github.io/aea/course-map)
   
