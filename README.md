@@ -66,7 +66,7 @@ This course is designed for students in construction management, environmental e
 #### Module 0 Course Introduction
 Learning objectives: Understand the course structure and problem-solving approaches in engineering (1 contact hours)
 
-- Introduction to advanced engineering analysis:
+- 0.1 Introduction to advanced engineering analysis:
   - Overview of course structure and goals (Homework 1)
 
 #### Moudle 1 Dimensional Analysis – 2 Weeks
@@ -133,7 +133,7 @@ Learning objectives: Solve ordinary and partial differential equations for engin
   - Predator-prey model: A critical thinking exercise (Homework 10)
 
 #### Module 5 Computer Simulation and Modeling – 2 Weeks
-Learning objectives: Develop and solve mathematical models using analytical and numerical methods(5 contact hours)
+Learning objectives: Develop and solve mathematical models using analytical and numerical methods (5 contact hours)
 
 - 5.1 Introduction to Physics-based Modeling:
   - Basics of formulating mathematical models from physical phenomena (Homework 11)
