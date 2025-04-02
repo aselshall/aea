@@ -175,7 +175,7 @@ For more information, refer to [course map](https://aselshall.github.io/aea/cour
 Slides and videos are available on Canvas. Key references used in preparing course materials include:
 - *Fluid Mechanics Fundamentals and Applications*, 3rd Ed. by Yunus Cengel and John Cimbala, McGraw Hill (Module 1)
 - *Civil Engineering Reference Manual for the PE Exam*, 14th Ed. by Michael R. Lindeburg, PPI - Kaplan (Module 2 and 3)
-- *Applied Hydrogeology*, 5th Ed.by C. W. Fetter, David Kreamer, Waveland Press (Module 4, 5, and 6) 
+- *Applied Hydrogeology*, 5th Ed.by C. W. Fetter, David Kreamer, Waveland Press (Module 4 and 5) 
 - *Numerical Methods for Engineers*, 8th Ed. by Steven Chapra and Raymond Canale, McGraw Hill (Module 4, 5, 6 and 8)
 - *Uncertainty Quantification: Theory, Implementation, and Applications* by Ralph C. Smith, SAIM (Module 7)
 
