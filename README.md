@@ -176,7 +176,7 @@ Slides and videos are available on Canvas. Key references used in preparing cour
 - *Civil Engineering Reference Manual for the PE Exam*, 14th Ed. by Michael R. Lindeburg
 - *Fluid Mechanics Fundamentals and Applications*, 3rd Ed. by Yunus Cengel and John Cimbala
 - *Numerical Methods for Engineers*, 8th Ed. by Steven Chapra and Raymond Canale
-- *Applied Hydrogeology*, 5th Ed.by C. W. Fetter, David Kreamer
+- *Applied Hydrogeology*, 5th Ed. by C. W. Fetter and David Kreamer
 
 ## Assessment and Grading
 
