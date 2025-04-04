@@ -79,7 +79,7 @@ Learning objectives: Apply dimensional analysis and Pi theorem to simplify compl
 - 1.2 Pi theorem:
   - Physical models, similarity, and Pi theorem (Homework 2)
   - Pi theorem for dimensional analysis (Homework 2)
-  - Pi theorem, scaling laws and physical modeling (Homework 2)
+  - Pi theorem, scaling laws and physical models (Homework 2)
 
 #### Module 2 Differential Calculus – 4 Weeks
 Learning objectives: Use derivatives for optimization, system analysis, and function approximation (10 contact hours) 
@@ -90,7 +90,7 @@ Learning objectives: Use derivatives for optimization, system analysis, and func
   - Derivative of special functions: Exponential, log, and trigonometric functions (Homework 3)
 
 - 2.2 Derivative tests:
-  - Singular points ans critical points: Derivative-based optimization, singular points critical points, and derivative tests (Homework 4)
+  - Singular points ans critical points: Derivative-based optimization, singular points, critical points, and derivative tests (Homework 4)
   - Optimization: Basic problems of derivative-based optimization (Homework 4)
   - Engineering applications: Optimization methods for groundwater remediation and model calibration (Homework 4)
     
