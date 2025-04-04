@@ -11,7 +11,7 @@ EGN 6430 Advanced Engineering Analysis
 CRN: [15845](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202501&crn=15845)  
 Credit hours: 3  
 Class: Online - Asynchronous   
-Exam: Wednesday Apr 30 from 5:00 pm to 7:00 pm - In-Person (Exam location will be announced)
+Exam: Wednesday Apr 30 from 6:00 pm to 8:00 pm - In-Person at Holmes Engineering 330. 
 
 ## Instructor 
 Ahmed S. Elshall, PhD  
