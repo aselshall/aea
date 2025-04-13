@@ -219,11 +219,11 @@ A weekly homework will be posted on Canvas. Each assignment is due by Sunday at 
 - Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
 
 ## Exam
-- The final comprehensive exam will be in-person, conducted with pencil and paper in FE exam format.
+- A final comprehensive exam will be in-person, conducted with pencil and paper in FE exam format.
 - The exam will only cover mandatory modules (Modules 1 to 6) and elective moudles are not included.
-- The exam is two hours and consists of about 20 multiple-choice, select correct answers, and true or false questions.
+- The exam is two hours and consists of about 20 multiple-choice and true or false questions.
 - The exam is open-book but no internet access is allowed.
-- Only FE-approved calculators are permitted. That is a regular calculator and not a smart calculator or smart phone that is connected to the Internet. Laptops are allowed as long as there is no Internet access. Internet access is prohibited.
+- Only FE-approved calculators are permitted. That is a regular calculator and not a smart calculator or smart phone that is connected to the Internet. Laptops are allowed as long as there is no Internet access. Any form of internet access is prohibited.
 - Study guide: If you can solve the exercises, practice problems, and homework, you will be prepared for the exam.
 - Exam review will be posted on Canvas after the week of the last mandatory module.
 - Receiving or providing unauthorized assistance, including using the internet, will result in a grade of zero on this exam. The [academic dishonesty policy](https://aselshall.github.io/aea/#policy-for-academic-integrity-violations) will apply.
