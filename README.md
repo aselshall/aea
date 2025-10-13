@@ -1,8 +1,8 @@
 ## [EGN 6430 Advanced Engineering Analysis](https://aselshall.github.io/aea)
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
-Spring 2025  
-Last updated: Jan 3, 2025  
+Spring 2026  
+Last updated: Oct 14, 2025  
 
 Recorded Lessons: [Link](https://www.youtube.com/playlist?list=PLYJuWYhfyGeN2pncUHlOtFBSrTwEWwLTj)
 
@@ -11,7 +11,7 @@ EGN 6430 Advanced Engineering Analysis
 CRN: [15845](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202501&crn=15845)  
 Credit hours: 3  
 Class: Online - Asynchronous   
-Exam: Wednesday Apr 30 from 6:00 pm to 8:00 pm - In-Person at Holmes Engineering 330. 
+Exam: Wednesday Apr 29 from 6:00 pm to 8:00 pm - In-Person at TBD. 
 
 ## Instructor 
 Ahmed S. Elshall, PhD  
@@ -20,7 +20,9 @@ Department of Bioengineering, Civil Engineering, and Environmental Engineering
 U.A. Whitaker College of Engineering Joint Appointment with The Water School  
 Office: Holmes Hall 423 (inside 416)  
 Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)  
-Office Hours : Tuesday and Thursday 2:00 pm - 4:00 pm, and by appointment  
+Office Hours:
+- Tuesday 8:00 AM – 12:00 PM
+- By appointment using this [link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
 ## Course Catalog Description
 Methods of analysis applied to engineering problems. Topics include a review of vector calculus, linear algebra, analytical solutions and numerical integration of differential equations, finite integrals, and computer simulation and modeling.
@@ -38,27 +40,33 @@ These topics and number of assignments are tentative and subject to change based
 
 | Week | Date (From - To) | Topic                                                          | Due date    |
 |------|------------------|----------------------------------------------------------------|-------------|
-| 1    | 6-Jan - 12-Jan    | Course introduction; Dimensional analysis: Review              | Homework 1  |
-| 2    | 13-Jan - 19-Jan  | Dimensional analysis: Pi theorem and physical models           | Homework 2  |
-| 3    | 20-Jan           | Martin Luther King Holiday Observed (no classes)               |             |
-| 3    | 20-Jan - 26-Jan   | Differential calculus: Review                                  | Homework 3  |
-| 4    | 27-Jan - 2-Feb   | Differential calculus: Optimization                            | Homework 4  |
-| 5    | 3-Feb - 9-Feb  | Differential calculus: Multivariable systems                   | Homework 5  |
-| 6    | 10-Feb - 16-Feb   | Differential calculus: Vector calculus                         | Homework 6  |
-| 7    | 17-Feb - 23-Feb   | Integral calculus: Review                                      | Homework 7  |
-| 8    | 24-Feb - 2-Mar   | Integral calculus: Integral function                           | Homework 8  |
-| 9    | 3-Mar - 9-Mar    | Spring break (no classes)                                      |             |
-| 10   | 10-Mar - 16-Mar  | Differential equations: Laws of conservation                   | Homework 9  |
-| 11   | 17-Mar - 23-Mar  | Differential equations: Engineering applications               | Homework 10 |
-| 12   | 24-Mar - 30-Mar   | Computer simulation and modeling: Mathematical models          | Homework 11 |
-| 13   | 31-Mar - 6-Apr   | Computer simulation and modeling: Numerical solutions          | Homework 12 |
-| 14   | 7-Apr - 13-Apr  | Linear algebra: Solving systems of linear equations            | Homework 13 |
-| 15   | 14-Apr - 20-Apr  | Elective<sup>1</sup> - Monte Carlo Simulation: Cost Estimation    |   |
-| 15   | 14-Apr - 20-Apr  | Elective<sup>1</sup> - Regression analysis : Linear regession   |   |
-| 16   | 21-Apr - 27-Apr  | Exam review                                                    | [Homework 14](https://aselshall.github.io/aea/hw/hw14)            |
-| 17   | 30-Apr           | In-class comprehensive final exam                              | [Final exam](https://aselshall.github.io/aea/#exam) |
+| 1    | 7-Jan - 11-Jan    | Course introduction; Dimensional analysis: Review              | Homework 1  |
+| 2    | 12-Jan - 18-Jan  | Dimensional analysis: Pi theorem and physical models           | Homework 2  |
+| 3    | 19-Jan           | Martin Luther King Holiday Observed (no classes)               |             |
+| 3    | 19-Jan - 25-Jan   | Differential calculus: Review                                  | Homework 3  |
+| 4    | 26-Jan - 1-Feb   | Differential calculus: Optimization                            | Homework 4  |
+| 5    | 2-Feb - 8-Feb  | Differential calculus: Multivariable systems                   | Homework 5  |
+| 6    | 9-Feb - 15-Feb   | Differential calculus: Vector calculus                         | Homework 6  |
+| 7    | 16-Feb - 22-Feb   | Integral calculus: Review                                      | Homework 7  |
+| 8    | 23-Feb - 1-Mar   | Integral calculus: Integral function                           | Homework 8  |
+| 9    | 2-Mar - 8-Mar    | Spring break (no classes)                                      |             |
+| 10   | 9-Mar - 15-Mar  | Differential equations: Laws of conservation                   | Homework 9  |
+| 11   | 16-Mar - 22-Mar  | Differential equations: Engineering applications               | Homework 10 |
+| 12   | 23-Mar - 29-Mar   | Computer simulation and modeling: Mathematical models          | Homework 11 |
+| 13   | 30-Mar - 5-Apr   | Computer simulation and modeling: Numerical solutions          | Homework 12 |
+| 14   | 6-Apr - 12-Apr  | Linear algebra: Solving systems of linear equations            | Homework 13 |
+| 15   | 13-Apr - 19-Apr  | Elective<sup>1</sup> - Monte Carlo Simulation: Cost Estimation    |   |
+| 15   | 13-Apr - 19-Apr  | Elective<sup>1</sup> - Regression analysis : Linear regession   |   |
+| 16   | 20-Apr - 26-Apr  | Exam review   | [Homework 14](https://aselshall.github.io/aea/hw/hw14)  |
+| 17   | 29-Apr           | In-class comprehensive final exam   | [Final exam](https://aselshall.github.io/aea/#exam) |
 
 <sup>1</sup> You are required to complete one of the two elective topics.
+
+Important dates: 
+- Last Day of Classes - Spring 2026 (Full Term)	Monday, 27 April 2026
+- Finals Begin - Spring 2026 (Full Term)	Tuesday, 28 April 2026
+- Finals End - Spring 2026 (Full Term)	Saturday, 02 May 2026
+- Grades Due from Faculty by Noon - Spring 2026 (Full Term)	Tuesday, 05 May 2026
 
 ## Topics 
 This course is designed for students in construction management, environmental engineering, and water resources engineering, with consideration that some students may not have completed a calculus course. Modules 0 to 6 are required. Module 7 and 8 are elective, and you only need to complete one of them.
@@ -198,13 +206,12 @@ The instructor may elect to employ a curve that favors the students.
 - Final Exam 30%
 
 General notes
-- Grades Due from Faculty by Tuesday, 06 May 2024
-- If you are falling behind, consult the academic calendar for the last day to drop.
+- If you are falling behind, consult the [academic calendar](https://www.fgcu.edu/academics/academiccalendar/) for the last day to drop.
 - Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
 
 ## Participation
 For participation assessment, students are expected to:
-- Watch recorded videos and fill-out exit tickets and [participation log](https://aselshall.github.io/aea/hw/participation)
+- Watch recorded videos and fill-out exit tickets 
 - Complete the survey at the end of each module meaningfully to provide instructor with constructive feedback and suggestions
 
 These form the majority of your participation grade.  
@@ -247,7 +254,7 @@ As of fall 2015, all faculty members are required to use Canvas to confirm a stu
 
 ## Generative AI Use
 
-Generative AI including large language models (LLMs) such as ChatGPT, Gimini, or Claude can be used for studying, but must not be used in assignments and exams unless indicated by the text "Generative AI Permitted". Students must cite the used generative AI tool, and failing to do so will be considered academic dishonesty. Check FGCU Generative AI policy for more details.
+Generative AI including large language models (LLMs) such as ChatGPT, Gimini, or Claude can be used for studying, but must not be used in assignments and exams unless indicated by the text "Generative AI Permitted". Students must cite the used generative AI tool, and failing to do so will be considered academic dishonesty. Check [FGCU generative AI policy](https://www.fgcu.edu/about/leadership/officeoftheprovost/generative-ai) for more details.
 
 ## Core Syllabus Policies 
 
