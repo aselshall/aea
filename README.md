@@ -211,7 +211,7 @@ General notes
 
 ## Participation
 For participation assessment, students are expected to:
-- Watch recorded videos and fill-out exit tickets 
+- Watch recorded videos and fill-out exit tickets and participation activities
 - Complete the survey at the end of each module meaningfully to provide instructor with constructive feedback and suggestions
 
 These form the majority of your participation grade.  
