@@ -13,47 +13,47 @@ Each module in the course supports at least one of these CLOs.
 ### 2. Modules 
 
 #### Module 0: Course Introduction
-Objective: Introduce foundational principles and engineering problem-solving approaches
+Objective: Upon completion of this module, students will be able to describe foundational principles and engineering problem-solving approaches
 - CLOs Supported: (provides course context, introduce problem-solving approaches used throughout the course, introduce the modeling (CLO 4) 
 - Assessment: Homework 1, exit ticket
 
 #### Module 1: Dimensional Analysis (2 Weeks)
-Objective: Build foundational engineering problem-solving skills using dimensional analysis
+Objective: Upon completion of this module, students will be able to apply dimensional analysis and the Pi theorem to formulate, simplify, and evaluate engineering problems, including the development and interpretation of physical models.
 - CLOs Supported: CLO 4 (Modeling- Physical models)  
 - Assessments: Homework 1, Homework 2, Exit tickets 
 
 #### Module 2: Differential Calculus (4 Weeks)
-Objective: Build essential calculus skills for FE exam and engineering applications  
+Objective: Upon completion of this module, students will be able to compute derivatives, analyze multivariable functions, and apply differential calculus techniques to optimize and interpret engineering systems, including problems aligned with FE exam–level applications.
 - CLOs Supported: CLO 1 (Differentiation and Integration), CLO 2 (Optimization), CLO 3 (Differential Equations)
 - Assessments: Homework 3, Homework 4, Homework 5, Homework 6, Exit tickets
 
 #### Module 3: Integral Calculus (2 Weeks)
-Objective: Strengthen integration skills and applications in engineering 
+Objective: Upon completion of this module, students will be able to evaluate definite and indefinite integrals and apply integration techniques to solve engineering problems involving accumulated quantities and system behavior.
 - CLOs Supported: CLO 1 (Differentiation and Integration), CLO 3 (Differential Equations)
 - Assessments: Homework 7, Homework 8, Exit tickets
 
 #### Module 4: Differential Equations (2 Weeks)
-Objective: Introduce ordinary and partial differential equations for engineering applications  
+Objective: Upon completion of this module, students will be able to formulate, analyze, and solve ordinary and partial differential equations to model engineering systems governed by conservation laws.
 - CLOs Supported: CLO 3 (Differential Equations) 
 - Assessments: Homework 9, Homework 10, Exit tickets  
 
 #### Module 5: Computer Simulation and Modeling (2 Weeks)
-Objective: Introduce numerical modeling techniques for engineering  
+Objective: Upon completion of this module, students will be able to develop mathematical models of engineering systems and implement analytical and numerical simulation techniques to evaluate system behavior and performance.
 - CLOs Supported: CLO 2 (Optimization), CLO 3 (Differential Equations), CLO 4 (Computer Simulation and Modeling)  
 - Assessments: Homework 11, Homework 12, Exit tickets     
 
 #### **Module 6: Linear Algebra (1 Week)**
-Objective: Introduce matrix operations and their applications in engineering  
+Objective: Upon completion of this module, students will be able to construct and solve systems of linear equations using matrix operations and apply linear algebra techniques to analyze engineering systems. 
 - CLOs Supported: CLO 5 (Linear Algebra)  
 - Assessments: Homework 13, Exit tickets    
 
 #### **Module 7: Monte Carlo Simulation (1 Week, Elective)**
-Objective: Introduce probabilistic modeling for engineering decision-making
+Objective: Upon completion of this module, students will be able to apply Monte Carlo simulation techniques to quantify uncertainty and evaluate probabilistic outcomes in engineering decision-making.
 - CLOs Supported: CLO 4 (Computer Simulation and Modeling)
 - Assessments: Homework 14, Exit tickets    
 
 #### **Module 8: Linear Regression (1 Week, Elective)**
-Objective: Introduce statistical regression techniques in engineering analysis  
+Objective: Upon completion of this module, students will be able to apply linear regression techniques to analyze engineering data, assess model performance, and interpret statistical relationships.
 - CLOs Supported: CLO 2 (Optimization), CLO 4 (Computer Simulation and Modeling)
 - Assessments: Homework 14, Exit tickets    
 
